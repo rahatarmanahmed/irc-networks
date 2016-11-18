@@ -4,16 +4,19 @@
   "version": "0.0.0",
   "license": "MIT",
   "main": "networks.js",
-  "files": ["networks.json"],
+  "files": [
+    "networks.json"
+  ],
   "author": "Rahat Ahmed",
   "repository": "rahatarmanahmed/irc-servers",
   "scripts": {
     "test": "standard",
-    "build": "node lib/scrape.js"
+    "start": "node lib/scrape.js > networks.json"
   },
   "devDependencies": {
     "JSONStream": "^1.2.1",
     "standard": "^8.5.0",
+    "stream-to-array": "^2.3.0",
     "through2": "^2.0.1",
     "x-ray": "^2.3.1"
   }
