@@ -1,0 +1,9276 @@
+[
+  {
+    "avgUsers": 167,
+    "avgChannels": 38,
+    "servers": [
+      {
+        "hostname": "irc.1chan.us",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "1chan"
+  },
+  {
+    "avgUsers": 23,
+    "avgChannels": 7,
+    "servers": [
+      {
+        "hostname": "irc.fantastico.onmypc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "1chat_italia"
+  },
+  {
+    "avgUsers": 442,
+    "avgChannels": 201,
+    "servers": [
+      {
+        "hostname": "irc.2600.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "cornelius.2600.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "2600net"
+  },
+  {
+    "avgUsers": 153,
+    "avgChannels": 130,
+    "servers": [
+      {
+        "hostname": "irc2.2ch.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.2ch.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "210.135.96.98",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "2ch"
+  },
+  {
+    "avgUsers": 20,
+    "avgChannels": 5,
+    "servers": [
+      {
+        "hostname": "irc.2moons.eu",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "2moons.eu"
+  },
+  {
+    "avgUsers": 142,
+    "avgChannels": 17,
+    "servers": [
+      {
+        "hostname": "irc.420-hightimes.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "420-Hightimes"
+  },
+  {
+    "avgUsers": 79,
+    "avgChannels": 188,
+    "servers": [
+      {
+        "hostname": "irc.elitediamond.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "irc.elitediamond.net",
+        "port": 6667,
+        "ssl": true,
+        "isMainServer": false
+      }
+    ],
+    "name": "42Net"
+  },
+  {
+    "avgUsers": 122,
+    "avgChannels": 68,
+    "servers": [
+      {
+        "hostname": "irc.4funbabbelchat.nl",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "4funbabbelchat.nl"
+  },
+  {
+    "avgUsers": 80,
+    "avgChannels": 78,
+    "servers": [
+      {
+        "hostname": "irc.6irc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.6irc.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "sundance.6irc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "6IRCNet"
+  },
+  {
+    "avgUsers": 38,
+    "avgChannels": 13,
+    "servers": [
+      {
+        "hostname": "7ter-himmel-irc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.7ter-himmel-irc.net",
+        "port": 6668,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "7ter-himmel-irc.net"
+  },
+  {
+    "avgUsers": 276,
+    "avgChannels": 50,
+    "servers": [
+      {
+        "hostname": "irc.abandoned-irc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Abandoned-IRC"
+  },
+  {
+    "avgUsers": 8,
+    "avgChannels": 4,
+    "servers": [
+      {
+        "hostname": "irc.ablenet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "domo.ablenet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "AbleNET"
+  },
+  {
+    "avgUsers": 329,
+    "avgChannels": 73,
+    "servers": [
+      {
+        "hostname": "irc.abvnet.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.abvnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "marvel.abvnet.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      },
+      {
+        "hostname": "asgard.abvnet.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      },
+      {
+        "hostname": "zeus.abvnet.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      }
+    ],
+    "name": "ABVNet"
+  },
+  {
+    "avgUsers": 45,
+    "avgChannels": 25,
+    "servers": [
+      {
+        "hostname": "irc.accessirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "AccessIRC"
+  },
+  {
+    "avgUsers": 40,
+    "avgChannels": 20,
+    "servers": [
+      {
+        "hostname": "illinois.us.aceirc.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "michigan.us.aceirc.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.aceirc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "texas.us.aceirc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "AceIRC"
+  },
+  {
+    "avgUsers": 11,
+    "avgChannels": 3,
+    "servers": [
+      {
+        "hostname": "irc.aberwiki.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.defsec.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "vm.flxsource.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "AFNet"
+  },
+  {
+    "avgUsers": 271,
+    "avgChannels": 121,
+    "servers": [
+      {
+        "hostname": "irc.after-all.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "eu.after-all.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "After-All"
+  },
+  {
+    "avgUsers": 796,
+    "avgChannels": 327,
+    "servers": [
+      {
+        "hostname": "irc.afternet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "AfterNET"
+  },
+  {
+    "avgUsers": 121,
+    "avgChannels": 42,
+    "servers": [
+      {
+        "hostname": "eu.afterx.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "us.afterx.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "AfterX"
+  },
+  {
+    "avgUsers": 383,
+    "avgChannels": 358,
+    "servers": [
+      {
+        "hostname": "irc.data.lt",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.ktu.lt",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.omnitel.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Aitvaras"
+  },
+  {
+    "avgUsers": 115,
+    "avgChannels": 15,
+    "servers": [
+      {
+        "hostname": "irc.albnetwork.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "shqiperia.albnetwork.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "arusha.albnetwork.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "Albnetwork.net"
+  },
+  {
+    "avgUsers": 629,
+    "avgChannels": 103,
+    "servers": [
+      {
+        "hostname": "irc.allnetwork.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.us.allnetwork.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "AllNetwork"
+  },
+  {
+    "avgUsers": 74,
+    "avgChannels": 34,
+    "servers": [
+      {
+        "hostname": "irc.allrednc.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.allrednc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "AllredNC-IRC"
+  },
+  {
+    "avgUsers": 362,
+    "avgChannels": 53,
+    "servers": [
+      {
+        "hostname": "irc.alphairc.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.alphairc.com",
+        "port": 4444,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "AlphaIRC"
+  },
+  {
+    "avgUsers": 18,
+    "avgChannels": 10,
+    "servers": [
+      {
+        "hostname": "irc.amicachat.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "AmicaChat"
+  },
+  {
+    "avgUsers": 67,
+    "avgChannels": 67,
+    "servers": [
+      {
+        "hostname": "tchat.andromeda.fr",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.andromeda.fr",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "pacifik.andromeda.fr",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "Andromeda.Fr"
+  },
+  {
+    "avgUsers": 174,
+    "avgChannels": 96,
+    "servers": [
+      {
+        "hostname": "irc.aniverse.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Aniverse"
+  },
+  {
+    "avgUsers": 199,
+    "avgChannels": 131,
+    "servers": [
+      {
+        "hostname": "irc.anonnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.anonnet.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "AnonNet"
+  },
+  {
+    "avgUsers": 230,
+    "avgChannels": 141,
+    "servers": [
+      {
+        "hostname": "irc.anonops.com",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.anonops.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "AnonOps"
+  },
+  {
+    "avgUsers": 57,
+    "avgChannels": 37,
+    "servers": [
+      {
+        "hostname": "irc.anonymous.ltd",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "AnonRising"
+  },
+  {
+    "avgUsers": 421,
+    "avgChannels": 285,
+    "servers": [
+      {
+        "hostname": "irc.anthrochat.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "lion.anthrochat.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "AnthroChat"
+  },
+  {
+    "avgUsers": 108,
+    "avgChannels": 60,
+    "servers": [
+      {
+        "hostname": "irc.anynet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.bluecherry.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.irule.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Anynet"
+  },
+  {
+    "avgUsers": 126,
+    "avgChannels": 69,
+    "servers": [
+      {
+        "hostname": "irc.aonl.nl",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "AONL"
+  },
+  {
+    "avgUsers": 194,
+    "avgChannels": 37,
+    "servers": [
+      {
+        "hostname": "alpha.appliedirc.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.appliedirc.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "AppliedIRC"
+  },
+  {
+    "avgUsers": 116,
+    "avgChannels": 86,
+    "servers": [
+      {
+        "hostname": "irc.arg-irc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "xexanoth.arg-irc.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      },
+      {
+        "hostname": "dagon.arg-irc.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      }
+    ],
+    "name": "ARG-IRC"
+  },
+  {
+    "avgUsers": 12,
+    "avgChannels": 8,
+    "servers": [
+      {
+        "hostname": "irc.arloria.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "sorcerer.irc.arloria.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "lennier.irc.arloria.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "petrina.irc.arloria.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "ArloriaNET"
+  },
+  {
+    "avgUsers": 41,
+    "avgChannels": 30,
+    "servers": [
+      {
+        "hostname": "irc.aseriesoftubez.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ASoTnet"
+  },
+  {
+    "avgUsers": 31,
+    "avgChannels": 10,
+    "servers": [
+      {
+        "hostname": "irc.asylo.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Asylo"
+  },
+  {
+    "avgUsers": 14,
+    "avgChannels": 9,
+    "servers": [
+      {
+        "hostname": "irc.asylumnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "london.uk.eu.asylumnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "capetown.za.af.asylumnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "AsylumNet"
+  },
+  {
+    "avgUsers": 192,
+    "avgChannels": 126,
+    "servers": [
+      {
+        "hostname": "irc.atomicedge.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.atomicedge.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "AtomicEdge"
+  },
+  {
+    "avgUsers": 326,
+    "avgChannels": 155,
+    "servers": [
+      {
+        "hostname": "irc.atrum.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Atrum"
+  },
+  {
+    "avgUsers": 4,
+    "avgChannels": 3,
+    "servers": [
+      {
+        "hostname": "irc.aureaworld.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "draco.aureaworld.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "andromeda.aureaworld.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "AureAWorld"
+  },
+  {
+    "avgUsers": 136,
+    "avgChannels": 147,
+    "servers": [
+      {
+        "hostname": "irc.austnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "au.austnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "us.austnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "AustNet"
+  },
+  {
+    "avgUsers": 96,
+    "avgChannels": 33,
+    "servers": [
+      {
+        "hostname": "irc.auxnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "AUXnet"
+  },
+  {
+    "avgUsers": 53,
+    "avgChannels": 40,
+    "servers": [
+      {
+        "hostname": "irc.axenet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Axenet"
+  },
+  {
+    "avgUsers": 352,
+    "avgChannels": 151,
+    "servers": [
+      {
+        "hostname": "irc.ayochat.or.id",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.ayochat.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "AyoChat"
+  },
+  {
+    "avgUsers": 383,
+    "avgChannels": 355,
+    "servers": [
+      {
+        "hostname": "irc.eu.azzurra.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.azzurra.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Azzurra"
+  },
+  {
+    "avgUsers": 169,
+    "avgChannels": 61,
+    "servers": [
+      {
+        "hostname": "irc.b2irc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "B2IRC"
+  },
+  {
+    "avgUsers": 63,
+    "avgChannels": 26,
+    "servers": [
+      {
+        "hostname": "irc.bakashimoe.me",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.yas-online.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "BakaShiMoe"
+  },
+  {
+    "avgUsers": 70,
+    "avgChannels": 5,
+    "servers": [
+      {
+        "hostname": "irc.banglacafe.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "BanglaCafe"
+  },
+  {
+    "avgUsers": 67,
+    "avgChannels": 49,
+    "servers": [
+      {
+        "hostname": "irc.bastard-irc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Bastard-IRC"
+  },
+  {
+    "avgUsers": 20,
+    "avgChannels": 19,
+    "servers": [
+      {
+        "hostname": "irc.bbsn.ca",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc-pei.bbsn.ca",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "BBSN"
+  },
+  {
+    "avgUsers": 48,
+    "avgChannels": 43,
+    "servers": [
+      {
+        "hostname": "irc.betachat.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.betachat.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "jupiter.betachat.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      },
+      {
+        "hostname": "neptune.betachat.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      }
+    ],
+    "name": "BetaChat"
+  },
+  {
+    "avgUsers": 38,
+    "avgChannels": 14,
+    "servers": [
+      {
+        "hostname": "irc.bgirc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.ratbox.eu",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "BgIRC"
+  },
+  {
+    "avgUsers": 61,
+    "avgChannels": 20,
+    "servers": [
+      {
+        "hostname": "irc.bhasirc.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "irc.bhasirc.com",
+        "port": 7000,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "BhasIRC"
+  },
+  {
+    "avgUsers": 76,
+    "avgChannels": 49,
+    "servers": [
+      {
+        "hostname": "irc.bigfurs.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "axiom.bigfurs.com",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      }
+    ],
+    "name": "Bigfurs"
+  },
+  {
+    "avgUsers": 25,
+    "avgChannels": 7,
+    "servers": [
+      {
+        "hostname": "chain.bikers-irc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "engine.bikers-irc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "chain.bikers-irc.net",
+        "port": 6679,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "engine.bikers-irc.net",
+        "port": 6679,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "Bikers-IRC"
+  },
+  {
+    "avgUsers": 29,
+    "avgChannels": 12,
+    "servers": [
+      {
+        "hostname": "irc.binhex.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "whisky.binhex.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "nyan.binhex.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "jeger.binhex.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "BinHex"
+  },
+  {
+    "avgUsers": 48,
+    "avgChannels": 13,
+    "servers": [
+      {
+        "hostname": "irc.black-cell.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "dragonfire.black-cell.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "jtek.black-cell.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Black-Cell.net"
+  },
+  {
+    "avgUsers": 80,
+    "avgChannels": 7,
+    "servers": [
+      {
+        "hostname": "irc.blackznet.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "rage.blackznet.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "black.blackznet.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "blackznet.com"
+  },
+  {
+    "avgUsers": 189,
+    "avgChannels": 49,
+    "servers": [
+      {
+        "hostname": "addict.blafasel.de",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.blafasel.de",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Blafasel"
+  },
+  {
+    "avgUsers": 467,
+    "avgChannels": 211,
+    "servers": [
+      {
+        "hostname": "irc.blitzed.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Blitzed"
+  },
+  {
+    "avgUsers": 276,
+    "avgChannels": 22,
+    "servers": [
+      {
+        "hostname": "irc.bolchat.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "BOLChat"
+  },
+  {
+    "avgUsers": 43,
+    "avgChannels": 20,
+    "servers": [
+      {
+        "hostname": "irc.boredicons.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.durd.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.twigathy.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "BoredIRC"
+  },
+  {
+    "avgUsers": 14,
+    "avgChannels": 16,
+    "servers": [
+      {
+        "hostname": "irc.br-online.de",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "BR-online"
+  },
+  {
+    "avgUsers": 52,
+    "avgChannels": 10,
+    "servers": [
+      {
+        "hostname": "irc.brasirc.com.br",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc2.brasirc.com.br",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "irc.brasirc.com.br",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      }
+    ],
+    "name": "BrasIRC"
+  },
+  {
+    "avgUsers": 78,
+    "avgChannels": 22,
+    "servers": [
+      {
+        "hostname": "irc.brasport.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.brasport.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "BrasPort"
+  },
+  {
+    "avgUsers": 251,
+    "avgChannels": 89,
+    "servers": [
+      {
+        "hostname": "irc.brirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "BrIRC.net"
+  },
+  {
+    "avgUsers": 18,
+    "avgChannels": 5,
+    "servers": [
+      {
+        "hostname": "irc.bryansk.ru",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.bks-tv.ru",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "irc.nfsrb.ru",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "BryanskNet"
+  },
+  {
+    "avgUsers": 3033,
+    "avgChannels": 114,
+    "servers": [
+      {
+        "hostname": "irc.buddy.im",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.buddy.im",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "Buddy.IM"
+  },
+  {
+    "avgUsers": 46,
+    "avgChannels": 10,
+    "servers": [
+      {
+        "hostname": "irc.bullet-irc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.bullet-irc.net",
+        "port": 7000,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "trinkhalle.bullet-irc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "tubulev.bullet-irc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "Bullet-IRC"
+  },
+  {
+    "avgUsers": 129,
+    "avgChannels": 153,
+    "servers": [
+      {
+        "hostname": "irc.bynets.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ByNets"
+  },
+  {
+    "avgUsers": 89,
+    "avgChannels": 37,
+    "servers": [
+      {
+        "hostname": "toronto.yossman.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.yossman.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "byxnet"
+  },
+  {
+    "avgUsers": 75,
+    "avgChannels": 49,
+    "servers": [
+      {
+        "hostname": "irc.caelestia.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "aurora.caelestia.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Caelestia"
+  },
+  {
+    "avgUsers": 117,
+    "avgChannels": 98,
+    "servers": [
+      {
+        "hostname": "irc.caffie.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.caffie.net",
+        "port": 8067,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.caffie.net",
+        "port": 6666,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "CaffieNET"
+  },
+  {
+    "avgUsers": 48,
+    "avgChannels": 34,
+    "servers": [
+      {
+        "hostname": "irc.cakeforce.co.uk",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.cakeforce.co.uk",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "CakeForceUK"
+  },
+  {
+    "avgUsers": 553,
+    "avgChannels": 558,
+    "servers": [
+      {
+        "hostname": "celestia.canternet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "luna.canternet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "derpy.canternet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Canternet"
+  },
+  {
+    "avgUsers": 28,
+    "avgChannels": 23,
+    "servers": [
+      {
+        "hostname": "irc.chaoticnetworks.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ChaoticNetworks"
+  },
+  {
+    "avgUsers": 51,
+    "avgChannels": 16,
+    "servers": [
+      {
+        "hostname": "irc.chaoz-irc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.chaoz-irc.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Chaoz-IRC"
+  },
+  {
+    "avgUsers": 107,
+    "avgChannels": 61,
+    "servers": [
+      {
+        "hostname": "irc.chat-solutions.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Chat-Solutions"
+  },
+  {
+    "avgUsers": 503,
+    "avgChannels": 214,
+    "servers": [
+      {
+        "hostname": "irc.chat4all.org",
+        "port": 6668,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Chat4All.org"
+  },
+  {
+    "avgUsers": 34,
+    "avgChannels": 33,
+    "servers": [
+      {
+        "hostname": "irc.chatabout.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ChatAbout"
+  },
+  {
+    "avgUsers": 14,
+    "avgChannels": 31,
+    "servers": [
+      {
+        "hostname": "irc.chatcafe.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ChatCafe"
+  },
+  {
+    "avgUsers": 54,
+    "avgChannels": 130,
+    "servers": [
+      {
+        "hostname": "irc.chateamos.es",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "jupiter.chateamos.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "Chateamos"
+  },
+  {
+    "avgUsers": 43,
+    "avgChannels": 19,
+    "servers": [
+      {
+        "hostname": "irc.chaterz.nl",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Chaterz.nl"
+  },
+  {
+    "avgUsers": 665,
+    "avgChannels": 16,
+    "servers": [
+      {
+        "hostname": "irc.chateuropa.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "figarzilla.chateuropa.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "italiairc.chateuropa.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "ChatEuropa"
+  },
+  {
+    "avgUsers": 21,
+    "avgChannels": 17,
+    "servers": [
+      {
+        "hostname": "irc.chatfizz.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ChatFizz"
+  },
+  {
+    "avgUsers": 72,
+    "avgChannels": 19,
+    "servers": [
+      {
+        "hostname": "irc.chatjunkies.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ChatJunkies"
+  },
+  {
+    "avgUsers": 103,
+    "avgChannels": 63,
+    "servers": [
+      {
+        "hostname": "irc.chatlounge.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ChatLounge"
+  },
+  {
+    "avgUsers": 14,
+    "avgChannels": 12,
+    "servers": [
+      {
+        "hostname": "irc.chatnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "chicago.il.us.chatnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "ChatNet"
+  },
+  {
+    "avgUsers": 48,
+    "avgChannels": 14,
+    "servers": [
+      {
+        "hostname": "irc.chatnets.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.711chan.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.notasschan.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "chatnets"
+  },
+  {
+    "avgUsers": 86,
+    "avgChannels": 50,
+    "servers": [
+      {
+        "hostname": "irc.chatopia.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "doulos.chatopia.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "strongbad.chatopia.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Chatopia"
+  },
+  {
+    "avgUsers": 64,
+    "avgChannels": 25,
+    "servers": [
+      {
+        "hostname": "irc.chatsansar.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ChatSansar"
+  },
+  {
+    "avgUsers": 364,
+    "avgChannels": 142,
+    "servers": [
+      {
+        "hostname": "irc.chatspike.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "kenny.chatspike.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "stitch.chatspike.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "ChatSpike"
+  },
+  {
+    "avgUsers": 23,
+    "avgChannels": 4,
+    "servers": [
+      {
+        "hostname": "chatter.lu",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "chatter.lu",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "chatter.lu"
+  },
+  {
+    "avgUsers": 50,
+    "avgChannels": 32,
+    "servers": [
+      {
+        "hostname": "irc.chatters.gr",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Chatters"
+  },
+  {
+    "avgUsers": 445,
+    "avgChannels": 205,
+    "servers": [
+      {
+        "hostname": "irc.chattersweb.nl",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc6.chattersweb.nl",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "Chattersweb"
+  },
+  {
+    "avgUsers": 171,
+    "avgChannels": 15,
+    "servers": [
+      {
+        "hostname": "irc.chatuniverse.info",
+        "port": 5557,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "usa.chatuniverse.info",
+        "port": 5557,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "chatuniverse.info"
+  },
+  {
+    "avgUsers": 34,
+    "avgChannels": 25,
+    "servers": [
+      {
+        "hostname": "irc.chillnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ChillNet"
+  },
+  {
+    "avgUsers": 37,
+    "avgChannels": 13,
+    "servers": [
+      {
+        "hostname": "irc.christianchat.info",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ChristianChat"
+  },
+  {
+    "avgUsers": 107,
+    "avgChannels": 122,
+    "servers": [
+      {
+        "hostname": "irc.cncirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "CnCIRC"
+  },
+  {
+    "avgUsers": 70,
+    "avgChannels": 26,
+    "servers": [
+      {
+        "hostname": "irc.drwilco.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "anarchy.tamu.edu",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.magicferret.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Cognet"
+  },
+  {
+    "avgUsers": 724,
+    "avgChannels": 1230,
+    "servers": [
+      {
+        "hostname": "irc.coldfront.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Coldfront"
+  },
+  {
+    "avgUsers": 45,
+    "avgChannels": 64,
+    "servers": [
+      {
+        "hostname": "irc.collectiveirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "CollectiveIRC"
+  },
+  {
+    "avgUsers": 317,
+    "avgChannels": 112,
+    "servers": [
+      {
+        "hostname": "irc.coolsmile.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.coolsmile.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "Coolsmile.net"
+  },
+  {
+    "avgUsers": 119,
+    "avgChannels": 60,
+    "servers": [
+      {
+        "hostname": "irc.crushandrun.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "ganondorf.crushandrun.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      },
+      {
+        "hostname": "bowser.crushandrun.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      }
+    ],
+    "name": "CrushAndRun"
+  },
+  {
+    "avgUsers": 43,
+    "avgChannels": 10,
+    "servers": [
+      {
+        "hostname": "irc.crystalirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "CrystalIRC"
+  },
+  {
+    "avgUsers": 726,
+    "avgChannels": 339,
+    "servers": [
+      {
+        "hostname": "irc.cuff-link.me",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Cuff-Link"
+  },
+  {
+    "avgUsers": 70,
+    "avgChannels": 94,
+    "servers": [
+      {
+        "hostname": "irc.cyanide-x.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Cyanide-x"
+  },
+  {
+    "avgUsers": 106,
+    "avgChannels": 41,
+    "servers": [
+      {
+        "hostname": "irc.cyberarmy.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "CyberArmy"
+  },
+  {
+    "avgUsers": 21,
+    "avgChannels": 13,
+    "servers": [
+      {
+        "hostname": "irc.d4rc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "D4RCnet"
+  },
+  {
+    "avgUsers": 358,
+    "avgChannels": 173,
+    "servers": [
+      {
+        "hostname": "irc.dairc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "DaIRC"
+  },
+  {
+    "avgUsers": 4237,
+    "avgChannels": 3505,
+    "servers": [
+      {
+        "hostname": "irc.dal.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "arcor.de.eu.dal.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "rapport.ix.us.dal.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "DALnet"
+  },
+  {
+    "avgUsers": 172,
+    "avgChannels": 107,
+    "servers": [
+      {
+        "hostname": "irc.chatnet.ru",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.yakimanka.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.tic-tac.ru",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "DALNet.RU"
+  },
+  {
+    "avgUsers": 5,
+    "avgChannels": 1,
+    "servers": [
+      {
+        "hostname": "irc.dalnetwork.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.dalnetwork.org",
+        "port": 6667,
+        "ssl": true,
+        "isMainServer": false
+      },
+      {
+        "hostname": "irc.dalnetwork.org",
+        "port": 7000,
+        "ssl": true,
+        "isMainServer": false
+      }
+    ],
+    "name": "DALNetwork"
+  },
+  {
+    "avgUsers": 121,
+    "avgChannels": 110,
+    "servers": [
+      {
+        "hostname": "irc.darenet.org",
+        "port": 9999,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.darenet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "DareNET"
+  },
+  {
+    "avgUsers": 121,
+    "avgChannels": 93,
+    "servers": [
+      {
+        "hostname": "irc.d-t-net.de",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Dark-Tou-Net"
+  },
+  {
+    "avgUsers": 19,
+    "avgChannels": 12,
+    "servers": [
+      {
+        "hostname": "irc.darker.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "na.darker.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "eu.darker.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "DarkerNet"
+  },
+  {
+    "avgUsers": 225,
+    "avgChannels": 50,
+    "servers": [
+      {
+        "hostname": "irc.darkfasel.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.darkfasel.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "darkfasel.net"
+  },
+  {
+    "avgUsers": 1290,
+    "avgChannels": 1151,
+    "servers": [
+      {
+        "hostname": "irc2.darkmyst.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "DarkMyst"
+  },
+  {
+    "avgUsers": 124,
+    "avgChannels": 89,
+    "servers": [
+      {
+        "hostname": "irc.darkscience.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.darchoods.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.darkscience.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "darkscience"
+  },
+  {
+    "avgUsers": 156,
+    "avgChannels": 16,
+    "servers": [
+      {
+        "hostname": "irc.darkseas.us",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.darkseas.us",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      }
+    ],
+    "name": "darkseas"
+  },
+  {
+    "avgUsers": 53,
+    "avgChannels": 62,
+    "servers": [
+      {
+        "hostname": "irc.darkvoltage.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "ursa.nj.us.darkvoltage.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "lupus.tx.us.darkvoltage.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "DarkVoltage"
+  },
+  {
+    "avgUsers": 64,
+    "avgChannels": 40,
+    "servers": [
+      {
+        "hostname": "irc.deepspace.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Deepspace.org"
+  },
+  {
+    "avgUsers": 19,
+    "avgChannels": 5,
+    "servers": [
+      {
+        "hostname": "irc.degunino.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc2.degunino.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "degunino.net"
+  },
+  {
+    "avgUsers": 289,
+    "avgChannels": 102,
+    "servers": [
+      {
+        "hostname": "irc.dejatoons.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "DejaToons"
+  },
+  {
+    "avgUsers": 39,
+    "avgChannels": 26,
+    "servers": [
+      {
+        "hostname": "irc.delfi.ee",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "delfi.ee"
+  },
+  {
+    "avgUsers": 38,
+    "avgChannels": 36,
+    "servers": [
+      {
+        "hostname": "chat.delfi.lt",
+        "port": 7000,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "chat.delfi.lt",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "delfi.lt"
+  },
+  {
+    "avgUsers": 322,
+    "avgChannels": 108,
+    "servers": [
+      {
+        "hostname": "irc.desirenet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "disney.desirenet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "DesireNet"
+  },
+  {
+    "avgUsers": 336,
+    "avgChannels": 56,
+    "servers": [
+      {
+        "hostname": "irc.digitalirc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.digitalirc.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "mooo.digitalirc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "DigitalIRC"
+  },
+  {
+    "avgUsers": 82,
+    "avgChannels": 60,
+    "servers": [
+      {
+        "hostname": "irc.dogm.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.prioz.ru",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.rovno.ua",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Dogm-Network"
+  },
+  {
+    "avgUsers": 60,
+    "avgChannels": 78,
+    "servers": [
+      {
+        "hostname": "irc.domirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.domirc.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "carbon.domirc.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      }
+    ],
+    "name": "DomIRC"
+  },
+  {
+    "avgUsers": 260,
+    "avgChannels": 65,
+    "servers": [
+      {
+        "hostname": "studio64.yi.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "DorksNet"
+  },
+  {
+    "avgUsers": 76,
+    "avgChannels": 23,
+    "servers": [
+      {
+        "hostname": "irc.dragonirc.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "dragonspirit.eu.dragonirc.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "DragonIRC"
+  },
+  {
+    "avgUsers": 102,
+    "avgChannels": 33,
+    "servers": [
+      {
+        "hostname": "irc.dream-irc.de",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.dream-irc.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Dream-IRC"
+  },
+  {
+    "avgUsers": 161,
+    "avgChannels": 9,
+    "servers": [
+      {
+        "hostname": "irc.dreams-fr.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "dreams-fr"
+  },
+  {
+    "avgUsers": 38,
+    "avgChannels": 19,
+    "servers": [
+      {
+        "hostname": "irc.drlnet.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "DrLnet"
+  },
+  {
+    "avgUsers": 128,
+    "avgChannels": 66,
+    "servers": [
+      {
+        "hostname": "irc.dynastynet.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "DynastyNet"
+  },
+  {
+    "avgUsers": 167,
+    "avgChannels": 92,
+    "servers": [
+      {
+        "hostname": "irc.eagles-myirc.de",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.myirc.eu",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "irc.eagles-irc.de",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "Eagles-myIRC"
+  },
+  {
+    "avgUsers": 100,
+    "avgChannels": 22,
+    "servers": [
+      {
+        "hostname": "irc.echo34.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Echo34"
+  },
+  {
+    "avgUsers": 218,
+    "avgChannels": 70,
+    "servers": [
+      {
+        "hostname": "irc.ecnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ECNet"
+  },
+  {
+    "avgUsers": 15039,
+    "avgChannels": 8042,
+    "servers": [
+      {
+        "hostname": "irc.efnet.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.servercentral.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "EFnet"
+  },
+  {
+    "avgUsers": 128,
+    "avgChannels": 49,
+    "servers": [
+      {
+        "hostname": "toaster.electrocode.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "wolf.electrocode.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "nyancat.electrocode.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.electrocode.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ElectroCode"
+  },
+  {
+    "avgUsers": 392,
+    "avgChannels": 865,
+    "servers": [
+      {
+        "hostname": "irc.enterthegame.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "ky1.enterthegame.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "newzealand.enterthegame.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "ny.enterthegame.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "EnterTheGame"
+  },
+  {
+    "avgUsers": 67,
+    "avgChannels": 21,
+    "servers": [
+      {
+        "hostname": "irc.entropynet.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "EntropyNet"
+  },
+  {
+    "avgUsers": 948,
+    "avgChannels": 828,
+    "servers": [
+      {
+        "hostname": "irc.epiknet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "EpiKnet"
+  },
+  {
+    "avgUsers": 32,
+    "avgChannels": 12,
+    "servers": [
+      {
+        "hostname": "irc.eqemulator.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "EQEmu"
+  },
+  {
+    "avgUsers": 6333,
+    "avgChannels": 5126,
+    "servers": [
+      {
+        "hostname": "damocles.esper.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "chocobo.esper.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.esper.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "EsperNet"
+  },
+  {
+    "avgUsers": 79,
+    "avgChannels": 16,
+    "servers": [
+      {
+        "hostname": "irc.estirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "EstIRC"
+  },
+  {
+    "avgUsers": 12,
+    "avgChannels": 4,
+    "servers": [
+      {
+        "hostname": "irc.etree.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "steamboat.etree.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "5.etree.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "etree"
+  },
+  {
+    "avgUsers": 1583,
+    "avgChannels": 1056,
+    "servers": [
+      {
+        "hostname": "irc.euirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.bas.ch.euirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.ham.de.euirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.hes.de.euirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.inn.at.euirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.rbx.fr.euirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.nbg.de.euirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.ams.nl.euirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "euIRC"
+  },
+  {
+    "avgUsers": 19,
+    "avgChannels": 133,
+    "servers": [
+      {
+        "hostname": "irc.europeirc.eu",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "chat.europeirc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "EuropeIRC"
+  },
+  {
+    "avgUsers": 1196,
+    "avgChannels": 445,
+    "servers": [
+      {
+        "hostname": "irc.europnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "EuropNet"
+  },
+  {
+    "avgUsers": 286,
+    "avgChannels": 72,
+    "servers": [
+      {
+        "hostname": "flare.evilnet.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "croissant.evilnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "eden.evilnet.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "EvilNET"
+  },
+  {
+    "avgUsers": 497,
+    "avgChannels": 170,
+    "servers": [
+      {
+        "hostname": "irc.evolu.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "intuxication.fr.eu.evolu.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "sivit.fr.eu.evolu.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Evolu.NET"
+  },
+  {
+    "avgUsers": 114,
+    "avgChannels": 28,
+    "servers": [
+      {
+        "hostname": "irc.evolu7ion.fr",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Evolu7ion"
+  },
+  {
+    "avgUsers": 26,
+    "avgChannels": 6,
+    "servers": [
+      {
+        "hostname": "irc.ewnix.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Ewnix"
+  },
+  {
+    "avgUsers": 184,
+    "avgChannels": 48,
+    "servers": [
+      {
+        "hostname": "irc.exchat.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ExChat"
+  },
+  {
+    "avgUsers": 8,
+    "avgChannels": 7,
+    "servers": [
+      {
+        "hostname": "irc.exodusirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.superhosts.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ExodusIRC"
+  },
+  {
+    "avgUsers": 31,
+    "avgChannels": 5,
+    "servers": [
+      {
+        "hostname": "irc.exolia.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "eXolia"
+  },
+  {
+    "avgUsers": 23,
+    "avgChannels": 8,
+    "servers": [
+      {
+        "hostname": "irc.fanty.epac.to",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "Fantastico"
+  },
+  {
+    "avgUsers": 37,
+    "avgChannels": 18,
+    "servers": [
+      {
+        "hostname": "irc.fdfnet.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "FDFnet"
+  },
+  {
+    "avgUsers": 30,
+    "avgChannels": 9,
+    "servers": [
+      {
+        "hostname": "irc.fef.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "ggn.fef.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "FEFNet"
+  },
+  {
+    "avgUsers": 63,
+    "avgChannels": 26,
+    "servers": [
+      {
+        "hostname": "irc.fewona.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Fewona"
+  },
+  {
+    "avgUsers": 16,
+    "avgChannels": 22,
+    "servers": [
+      {
+        "hostname": "irc.fireirc.co",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.fireirc.co",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "FireIRC"
+  },
+  {
+    "avgUsers": 55,
+    "avgChannels": 9,
+    "servers": [
+      {
+        "hostname": "flux.serverpit.com",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "fluxnet.serverpit.com",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "fluxbox.serverpit.com",
+        "port": 7000,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "flux.serverpit.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "FluxNet"
+  },
+  {
+    "avgUsers": 1122,
+    "avgChannels": 424,
+    "servers": [
+      {
+        "hostname": "irc.foonetic.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Foonetic"
+  },
+  {
+    "avgUsers": 223,
+    "avgChannels": 201,
+    "servers": [
+      {
+        "hostname": "irc.forestnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ForestNet"
+  },
+  {
+    "avgUsers": 237,
+    "avgChannels": 82,
+    "servers": [
+      {
+        "hostname": "irc.foreverchat.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ForeverChat"
+  },
+  {
+    "avgUsers": 53,
+    "avgChannels": 35,
+    "servers": [
+      {
+        "hostname": "irc.forumcerdas.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "poolside.forumcerdas.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "starwars.forumcerdas.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "ForumCerdas"
+  },
+  {
+    "avgUsers": 129,
+    "avgChannels": 34,
+    "servers": [
+      {
+        "hostname": "irc.frame.ro",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "frame.ro"
+  },
+  {
+    "avgUsers": 70,
+    "avgChannels": 17,
+    "servers": [
+      {
+        "hostname": "irc.freed0m4all.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Freed0m4All"
+  },
+  {
+    "avgUsers": 12,
+    "avgChannels": 12,
+    "servers": [
+      {
+        "hostname": "leviathan.freedom2irc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.freedom2irc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Freedom2IRC"
+  },
+  {
+    "avgUsers": 35,
+    "avgChannels": 29,
+    "servers": [
+      {
+        "hostname": "irc.freeirc.de",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "freeirc.de"
+  },
+  {
+    "avgUsers": 80820,
+    "avgChannels": 49342,
+    "servers": [
+      {
+        "hostname": "weber.freenode.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.freenode.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "wilhelm.freenode.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "kornbluth.freenode.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "freenode"
+  },
+  {
+    "avgUsers": 165,
+    "avgChannels": 71,
+    "servers": [
+      {
+        "hostname": "irc.freequest.net",
+        "port": 7000,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "FreeQuest"
+  },
+  {
+    "avgUsers": 75,
+    "avgChannels": 46,
+    "servers": [
+      {
+        "hostname": "seattle.freshchat.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.freshchat.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "FreshChat"
+  },
+  {
+    "avgUsers": 54,
+    "avgChannels": 26,
+    "servers": [
+      {
+        "hostname": "irc.friendsirc.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "FriendsIRC"
+  },
+  {
+    "avgUsers": 26,
+    "avgChannels": 12,
+    "servers": [
+      {
+        "hostname": "irc.frozen-irc.net",
+        "port": 6000,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.frozen-irc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Frozen-IRC"
+  },
+  {
+    "avgUsers": 87,
+    "avgChannels": 32,
+    "servers": [
+      {
+        "hostname": "irc.frozyn.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Frozyn"
+  },
+  {
+    "avgUsers": 15,
+    "avgChannels": 12,
+    "servers": [
+      {
+        "hostname": "irc.futuragora.pt",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.futuragora.pt",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "Futuragora"
+  },
+  {
+    "avgUsers": 16,
+    "avgChannels": 6,
+    "servers": [
+      {
+        "hostname": "irc.fyrechat.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "inferno.fyrechat.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "promethean.fyrechat.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "backdraft.fyrechat.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "FyreChat"
+  },
+  {
+    "avgUsers": 3722,
+    "avgChannels": 2929,
+    "servers": [
+      {
+        "hostname": "irc.gamesurge.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "nuclearfallout.wa.us.gamesurge.net \t",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "GameSurge"
+  },
+  {
+    "avgUsers": 664,
+    "avgChannels": 347,
+    "servers": [
+      {
+        "hostname": "irc.geeknode.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "GeekNode"
+  },
+  {
+    "avgUsers": 75,
+    "avgChannels": 89,
+    "servers": [
+      {
+        "hostname": "irc.geeksandgamers.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "daedalus.geeksandgamers.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "destiny.geeksandgamers.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "GeeksAndGamers"
+  },
+  {
+    "avgUsers": 2303,
+    "avgChannels": 626,
+    "servers": [
+      {
+        "hostname": "irc.geekshed.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "centaur.geekshed.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "neptune.geekshed.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "GeekShed"
+  },
+  {
+    "avgUsers": 41,
+    "avgChannels": 8,
+    "servers": [
+      {
+        "hostname": "irc.genscripts.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.genscripts.net",
+        "port": 6669,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "Genscripts"
+  },
+  {
+    "avgUsers": 342,
+    "avgChannels": 189,
+    "servers": [
+      {
+        "hostname": "irc.german-elite.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "German-Elite"
+  },
+  {
+    "avgUsers": 104,
+    "avgChannels": 13,
+    "servers": [
+      {
+        "hostname": "irc.german-freakz.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "german-freakz.net"
+  },
+  {
+    "avgUsers": 44,
+    "avgChannels": 9,
+    "servers": [
+      {
+        "hostname": "irc.german-irc.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "German-IRC"
+  },
+  {
+    "avgUsers": 3501,
+    "avgChannels": 353,
+    "servers": [
+      {
+        "hostname": "irc.geveze.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Geveze"
+  },
+  {
+    "avgUsers": 142,
+    "avgChannels": 34,
+    "servers": [
+      {
+        "hostname": "irc.geveze.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.mircdost.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "Geveze.Net"
+  },
+  {
+    "avgUsers": 23,
+    "avgChannels": 6,
+    "servers": [
+      {
+        "hostname": "irc.ghostsirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.ghostsnet.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "GhostsIRC"
+  },
+  {
+    "avgUsers": 32,
+    "avgChannels": 7,
+    "servers": [
+      {
+        "hostname": "irc.gigacrew.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "GigaCrew"
+  },
+  {
+    "avgUsers": 254,
+    "avgChannels": 170,
+    "servers": [
+      {
+        "hostname": "irc.gigairc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "GigaIRC"
+  },
+  {
+    "avgUsers": 1370,
+    "avgChannels": 330,
+    "servers": [
+      {
+        "hostname": "irc.gimp.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.acc.umu.se",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "GIMPnet"
+  },
+  {
+    "avgUsers": 607,
+    "avgChannels": 549,
+    "servers": [
+      {
+        "hostname": "eu.globalgamers.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.globalgamers.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "us.globalgamers.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "GlobalGamers"
+  },
+  {
+    "avgUsers": 561,
+    "avgChannels": 38,
+    "servers": [
+      {
+        "hostname": "irc.globalirc.it",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "GlobalIRC.it"
+  },
+  {
+    "avgUsers": 35,
+    "avgChannels": 16,
+    "servers": [
+      {
+        "hostname": "irc.gorf.us",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.gorf.us",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "gorfnets"
+  },
+  {
+    "avgUsers": 14,
+    "avgChannels": 22,
+    "servers": [
+      {
+        "hostname": "irc.greatshark.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "GreatShark"
+  },
+  {
+    "avgUsers": 61,
+    "avgChannels": 42,
+    "servers": [
+      {
+        "hostname": "irc.greekchat.eu",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.greekchat.eu",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "atlantis.greekchat.eu",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "aetos.greekchat.eu",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "GreekChat"
+  },
+  {
+    "avgUsers": 386,
+    "avgChannels": 33,
+    "servers": [
+      {
+        "hostname": "irc.greekirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "storm.greekirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "chat.greekirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "GreekIRC"
+  },
+  {
+    "avgUsers": 57,
+    "avgChannels": 17,
+    "servers": [
+      {
+        "hostname": "irc.griefplay.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.griefplay.net",
+        "port": 7778,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Griefplay"
+  },
+  {
+    "avgUsers": 272,
+    "avgChannels": 296,
+    "servers": [
+      {
+        "hostname": "irc.gtanet.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "maple.nl.eu.gtanet.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "GTANet"
+  },
+  {
+    "avgUsers": 30,
+    "avgChannels": 9,
+    "servers": [
+      {
+        "hostname": "irc.gtaxl.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.gtaxl.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "GTAXLnet"
+  },
+  {
+    "avgUsers": 2408,
+    "avgChannels": 942,
+    "servers": [
+      {
+        "hostname": "irc.hackint.eu",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.hackint.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.hackint.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.hackint.eu",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "hackint"
+  },
+  {
+    "avgUsers": 49,
+    "avgChannels": 33,
+    "servers": [
+      {
+        "hostname": "irc.hashmark.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "hashmark.net"
+  },
+  {
+    "avgUsers": 43,
+    "avgChannels": 16,
+    "servers": [
+      {
+        "hostname": "irc.hellcat.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Hellcat"
+  },
+  {
+    "avgUsers": 18,
+    "avgChannels": 5,
+    "servers": [
+      {
+        "hostname": "chat.mirc.com.gr",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "chat.mirc.com.gr",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "x01.mirc.com.gr",
+        "port": 7002,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "x01.mirc.com.gr",
+        "port": 7001,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "Hellenic"
+  },
+  {
+    "avgUsers": 6,
+    "avgChannels": 3,
+    "servers": [
+      {
+        "hostname": "irc.tomhek.nl",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.jorijn.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.egroen.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "HoaxNET"
+  },
+  {
+    "avgUsers": 204,
+    "avgChannels": 14,
+    "servers": [
+      {
+        "hostname": "irc.homo.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "homo.net"
+  },
+  {
+    "avgUsers": 198,
+    "avgChannels": 58,
+    "servers": [
+      {
+        "hostname": "irc.hub4ever.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Hub4Ever.Org"
+  },
+  {
+    "avgUsers": 63,
+    "avgChannels": 44,
+    "servers": [
+      {
+        "hostname": "irc.icestarirc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "IceStarIRC"
+  },
+  {
+    "avgUsers": 238,
+    "avgChannels": 140,
+    "servers": [
+      {
+        "hostname": "irc.icq-chat.com",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.icq-chat.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ICQ-Chat"
+  },
+  {
+    "avgUsers": 242,
+    "avgChannels": 167,
+    "servers": [
+      {
+        "hostname": "irc.idlechat.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "IdleChat"
+  },
+  {
+    "avgUsers": 126,
+    "avgChannels": 91,
+    "servers": [
+      {
+        "hostname": "irc.imaginarynet.uk",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.imaginarynet.uk",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ImaginaryNET"
+  },
+  {
+    "avgUsers": 278,
+    "avgChannels": 167,
+    "servers": [
+      {
+        "hostname": "irc.immortal-anime.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Immortal-Anime"
+  },
+  {
+    "avgUsers": 26,
+    "avgChannels": 14,
+    "servers": [
+      {
+        "hostname": "irc.indirectirc.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "IndirectIRC"
+  },
+  {
+    "avgUsers": 77,
+    "avgChannels": 35,
+    "servers": [
+      {
+        "hostname": "irc.indoirc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "IndoIRC"
+  },
+  {
+    "avgUsers": 26,
+    "avgChannels": 91,
+    "servers": [
+      {
+        "hostname": "irc.indolynx.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Indolynx"
+  },
+  {
+    "avgUsers": 138,
+    "avgChannels": 75,
+    "servers": [
+      {
+        "hostname": "irc.inframonde.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.inframonde.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "addiction.inframonde.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "Inframonde"
+  },
+  {
+    "avgUsers": 10,
+    "avgChannels": 17,
+    "servers": [
+      {
+        "hostname": "irc.inside-irc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "de.inside-irc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "se.inside-irc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Inside-IRC"
+  },
+  {
+    "avgUsers": 34,
+    "avgChannels": 4,
+    "servers": [
+      {
+        "hostname": "pool.inside3d.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Inside3D"
+  },
+  {
+    "avgUsers": 49,
+    "avgChannels": 29,
+    "servers": [
+      {
+        "hostname": "irc.interlinked.me",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.interlinked.me",
+        "port": 9999,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "corsac.interlinked.me",
+        "port": 9999,
+        "ssl": true,
+        "isMainServer": false
+      }
+    ],
+    "name": "interlinked.me"
+  },
+  {
+    "avgUsers": 16,
+    "avgChannels": 6,
+    "servers": [
+      {
+        "hostname": "irc.ssl.irc-ban.de",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.gentoo.pro",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.irc-ban.de",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "IRC-Ban.de"
+  },
+  {
+    "avgUsers": 10752,
+    "avgChannels": 3352,
+    "servers": [
+      {
+        "hostname": "irc.irc-hispano.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.chathispano.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "IRC-Hispano"
+  },
+  {
+    "avgUsers": 51,
+    "avgChannels": 11,
+    "servers": [
+      {
+        "hostname": "irc.irc-irc.de",
+        "port": 7000,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.irc-irc.de",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.irc-irc.de",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "IRC-IRC.de"
+  },
+  {
+    "avgUsers": 49,
+    "avgChannels": 38,
+    "servers": [
+      {
+        "hostname": "irc.irc-mania.de",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "IRC-Mania"
+  },
+  {
+    "avgUsers": 36,
+    "avgChannels": 45,
+    "servers": [
+      {
+        "hostname": "irc.by",
+        "port": 6695,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.by",
+        "port": 6665,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "IRC.BY"
+  },
+  {
+    "avgUsers": 516,
+    "avgChannels": 692,
+    "servers": [
+      {
+        "hostname": "pool.irc.tl",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "pool.irc.tl",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "IRC.tl"
+  },
+  {
+    "avgUsers": 62,
+    "avgChannels": 30,
+    "servers": [
+      {
+        "hostname": "irc.irc2.hu",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "IRC2"
+  },
+  {
+    "avgUsers": 286,
+    "avgChannels": 44,
+    "servers": [
+      {
+        "hostname": "us.irc4fun.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.irc4fun.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "IRC4Fun"
+  },
+  {
+    "avgUsers": 39,
+    "avgChannels": 30,
+    "servers": [
+      {
+        "hostname": "irc.irccity.net",
+        "port": 6665,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.irccity.ru",
+        "port": 6665,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.danusya.net",
+        "port": 6665,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "IrcCity"
+  },
+  {
+    "avgUsers": 2,
+    "avgChannels": 7,
+    "servers": [
+      {
+        "hostname": "irc.ircd-net.de",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "IRCd-Net"
+  },
+  {
+    "avgUsers": 1066,
+    "avgChannels": 147,
+    "servers": [
+      {
+        "hostname": "irc.ircgate.it",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "mercurio.ircgate.it",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "mistero.ircgate.it",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "IRCGate.it"
+  },
+  {
+    "avgUsers": 52,
+    "avgChannels": 37,
+    "servers": [
+      {
+        "hostname": "irc.irchaven.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "IRCHaven"
+  },
+  {
+    "avgUsers": 2485,
+    "avgChannels": 1196,
+    "servers": [
+      {
+        "hostname": "irc.irchighway.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "IRCHighWay"
+  },
+  {
+    "avgUsers": 0,
+    "avgChannels": 0,
+    "servers": [
+      {
+        "hostname": "irc.ircitaly.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "IRCItaly"
+  },
+  {
+    "avgUsers": 176,
+    "avgChannels": 74,
+    "servers": [
+      {
+        "hostname": "q-web.hu.ircline.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "loler.hu.ircline.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.ircline.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "iRCLiNE"
+  },
+  {
+    "avgUsers": 15,
+    "avgChannels": 190,
+    "servers": [
+      {
+        "hostname": "alesund.no.eu.irclink.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "barum.no.eu.irclink.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "tromso.no.eu.irclink.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "oslo.no.eu.irclink.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "IRCLink"
+  },
+  {
+    "avgUsers": 261,
+    "avgChannels": 74,
+    "servers": [
+      {
+        "hostname": "irc.livedubna.ru",
+        "port": 6665,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "ircluxe.ru",
+        "port": 6665,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "IRCLuxe.RU"
+  },
+  {
+    "avgUsers": 31027,
+    "avgChannels": 18666,
+    "servers": [
+      {
+        "hostname": "irc.de.ircnet.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.fu-berlin.de",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "irc.uni-erlangen.de",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "irc.atw-inter.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "IRCnet"
+  },
+  {
+    "avgUsers": 262,
+    "avgChannels": 47,
+    "servers": [
+      {
+        "hostname": "irc.ircnet.gr",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "greece.ircnet.gr",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "nemesis.ircnet.gr",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "IRCnet.gr"
+  },
+  {
+    "avgUsers": 66,
+    "avgChannels": 20,
+    "servers": [
+      {
+        "hostname": "irc.ircsource.net ",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.gentoo.se",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "irc.fixers.no",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "IRCsource"
+  },
+  {
+    "avgUsers": 177,
+    "avgChannels": 102,
+    "servers": [
+      {
+        "hostname": "chat.irchat.tv",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "IRCstorm"
+  },
+  {
+    "avgUsers": 41,
+    "avgChannels": 24,
+    "servers": [
+      {
+        "hostname": "irc.irctoo.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "IRCtoo"
+  },
+  {
+    "avgUsers": 45,
+    "avgChannels": 43,
+    "servers": [
+      {
+        "hostname": "irc.ircube.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.ir3.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "IRCube"
+  },
+  {
+    "avgUsers": 365,
+    "avgChannels": 146,
+    "servers": [
+      {
+        "hostname": "irc.ircworld.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "IrcWorld"
+  },
+  {
+    "avgUsers": 12,
+    "avgChannels": 68,
+    "servers": [
+      {
+        "hostname": "ircx.net.pl",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ircx.net.pl"
+  },
+  {
+    "avgUsers": 31,
+    "avgChannels": 6,
+    "servers": [
+      {
+        "hostname": "irc.irdsi.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "IRDSI"
+  },
+  {
+    "avgUsers": 471,
+    "avgChannels": 22,
+    "servers": [
+      {
+        "hostname": "irc.italian-amici.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.italian-amici.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "Italian-Amici"
+  },
+  {
+    "avgUsers": 0,
+    "avgChannels": 0,
+    "servers": [
+      {
+        "hostname": "irc.fantastico.mooo.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "italia_chattare"
+  },
+  {
+    "avgUsers": 59,
+    "avgChannels": 25,
+    "servers": [
+      {
+        "hostname": "irc.i-tna.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "iTNA"
+  },
+  {
+    "avgUsers": 0,
+    "avgChannels": 0,
+    "servers": [
+      {
+        "hostname": "irc.co.il",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "ivrit.irc.co.il",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Ivrit"
+  },
+  {
+    "avgUsers": 614,
+    "avgChannels": 447,
+    "servers": [
+      {
+        "hostname": "irc.iZ-smart.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.iZ-smart.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "iZ-smart.net"
+  },
+  {
+    "avgUsers": 96,
+    "avgChannels": 35,
+    "servers": [
+      {
+        "hostname": "irc.jaundies.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "jaundies"
+  },
+  {
+    "avgUsers": 3,
+    "avgChannels": 1,
+    "servers": [
+      {
+        "hostname": "hub.jeko.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.jeko.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      }
+    ],
+    "name": "Jeko-und-kiosk-die-e"
+  },
+  {
+    "avgUsers": 33,
+    "avgChannels": 6,
+    "servers": [
+      {
+        "hostname": "irc.joulunet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "JouluNet"
+  },
+  {
+    "avgUsers": 795,
+    "avgChannels": 1001,
+    "servers": [
+      {
+        "hostname": "irc.juggler.jp",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "juggler.jp"
+  },
+  {
+    "avgUsers": 93,
+    "avgChannels": 57,
+    "servers": [
+      {
+        "hostname": "irc.justtrance.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "JustTrance"
+  },
+  {
+    "avgUsers": 43,
+    "avgChannels": 18,
+    "servers": [
+      {
+        "hostname": "irc.jxceldolghmq.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "JxcelDolghmQ"
+  },
+  {
+    "avgUsers": 458,
+    "avgChannels": 58,
+    "servers": [
+      {
+        "hostname": "irc.kahkaha.gen.tr",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Kahkaha.Gen.Tr"
+  },
+  {
+    "avgUsers": 1645,
+    "avgChannels": 421,
+    "servers": [
+      {
+        "hostname": "irc.kampungchat.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "etnies.ca.us.kampungchat.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "KampungChat"
+  },
+  {
+    "avgUsers": 37,
+    "avgChannels": 8,
+    "servers": [
+      {
+        "hostname": "welcome.to.idletown.de",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "KewlFun"
+  },
+  {
+    "avgUsers": 43,
+    "avgChannels": 24,
+    "servers": [
+      {
+        "hostname": "sudo.kbfail.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.kbfail.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "moople.kbfail.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Keyboard-Failure"
+  },
+  {
+    "avgUsers": 36,
+    "avgChannels": 16,
+    "servers": [
+      {
+        "hostname": "irc.kickchat.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Kickchat"
+  },
+  {
+    "avgUsers": 55,
+    "avgChannels": 30,
+    "servers": [
+      {
+        "hostname": "iooner.klat00.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "harmony.klat00.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.klat00.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Klat00"
+  },
+  {
+    "avgUsers": 24,
+    "avgChannels": 7,
+    "servers": [
+      {
+        "hostname": "us.knet7.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.knet7.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "pl.knet7.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Knet7.org"
+  },
+  {
+    "avgUsers": 24,
+    "avgChannels": 24,
+    "servers": [
+      {
+        "hostname": "irc.knightirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "KnightIRC"
+  },
+  {
+    "avgUsers": 152,
+    "avgChannels": 128,
+    "servers": [
+      {
+        "hostname": "chat.koach.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Koach.Com"
+  },
+  {
+    "avgUsers": 41,
+    "avgChannels": 131,
+    "servers": [
+      {
+        "hostname": "irc.kottnet.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.kottnet.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "KottNet"
+  },
+  {
+    "avgUsers": 168,
+    "avgChannels": 183,
+    "servers": [
+      {
+        "hostname": "chat.be.krey.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "vtm.be.krey.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "KreyNet"
+  },
+  {
+    "avgUsers": 66,
+    "avgChannels": 20,
+    "servers": [
+      {
+        "hostname": "irc.krono.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "krono.net"
+  },
+  {
+    "avgUsers": 60,
+    "avgChannels": 28,
+    "servers": [
+      {
+        "hostname": "irc.kuroi.gq",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "alpha.kuroi.gq",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "Kuroi"
+  },
+  {
+    "avgUsers": 60,
+    "avgChannels": 15,
+    "servers": [
+      {
+        "hostname": "irc.kyunet.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.kyutie.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "kyunet"
+  },
+  {
+    "avgUsers": 119,
+    "avgChannels": 57,
+    "servers": [
+      {
+        "hostname": "irc.ladysclub-irc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.ladysclub.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.ladysclub.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.ladysclub-irc.de",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.ladysclub-irc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "ssl.ladysclub-irc.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "ssl.ladysclub.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "ladysclub-irc"
+  },
+  {
+    "avgUsers": 178,
+    "avgChannels": 111,
+    "servers": [
+      {
+        "hostname": "irc.langochat.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Langochat.net"
+  },
+  {
+    "avgUsers": 9,
+    "avgChannels": 1,
+    "servers": [
+      {
+        "hostname": "messiah.on.ca.lazynet.org",
+        "port": 7000,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "saigon.tx.us.lazynet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Lazynet"
+  },
+  {
+    "avgUsers": 93,
+    "avgChannels": 45,
+    "servers": [
+      {
+        "hostname": "irc.letstalkcoding.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.letstalkcoding.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "LetsTalkCoding"
+  },
+  {
+    "avgUsers": 548,
+    "avgChannels": 335,
+    "servers": [
+      {
+        "hostname": "irc.librairc.net",
+        "port": 6669,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.librairc.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      }
+    ],
+    "name": "LibraIRC"
+  },
+  {
+    "avgUsers": 44,
+    "avgChannels": 42,
+    "servers": [
+      {
+        "hostname": "irc.lichtsnel.nl",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "bob.lichtsnel.nl",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "LichtSnel"
+  },
+  {
+    "avgUsers": 120,
+    "avgChannels": 105,
+    "servers": [
+      {
+        "hostname": "irc.lizardirc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.lizardirc.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "LizardIRC"
+  },
+  {
+    "avgUsers": 319,
+    "avgChannels": 53,
+    "servers": [
+      {
+        "hostname": "eu.lostirc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.lostirc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "area51.lostirc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "LostIRC"
+  },
+  {
+    "avgUsers": 2170,
+    "avgChannels": 1700,
+    "servers": [
+      {
+        "hostname": "irc.luatic.net",
+        "port": 7778,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.luatic.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Luatic"
+  },
+  {
+    "avgUsers": 148,
+    "avgChannels": 107,
+    "servers": [
+      {
+        "hostname": "irc.lucidchat.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "LucidChat"
+  },
+  {
+    "avgUsers": 113,
+    "avgChannels": 44,
+    "servers": [
+      {
+        "hostname": "irc.lugs.ch",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "LUGS"
+  },
+  {
+    "avgUsers": 82,
+    "avgChannels": 26,
+    "servers": [
+      {
+        "hostname": "irc.maddshark.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "MaddShark"
+  },
+  {
+    "avgUsers": 82,
+    "avgChannels": 47,
+    "servers": [
+      {
+        "hostname": "irc.magicstar.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "MagicStar"
+  },
+  {
+    "avgUsers": 900,
+    "avgChannels": 389,
+    "servers": [
+      {
+        "hostname": "irc.perl.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "MagNET"
+  },
+  {
+    "avgUsers": 3,
+    "avgChannels": 2,
+    "servers": [
+      {
+        "hostname": "irc.malkier.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "malkier"
+  },
+  {
+    "avgUsers": 55,
+    "avgChannels": 29,
+    "servers": [
+      {
+        "hostname": "irc.mantrairc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "MantraIRC"
+  },
+  {
+    "avgUsers": 117,
+    "avgChannels": 19,
+    "servers": [
+      {
+        "hostname": "irc.maxfraud.com",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.maxfraud.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "maxfraud"
+  },
+  {
+    "avgUsers": 78,
+    "avgChannels": 32,
+    "servers": [
+      {
+        "hostname": "irc.mefalcon.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.mefalcon.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "MeFalcon"
+  },
+  {
+    "avgUsers": 2926,
+    "avgChannels": 1055,
+    "servers": [
+      {
+        "hostname": "irc.mibbit.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Mibbit"
+  },
+  {
+    "avgUsers": 119,
+    "avgChannels": 80,
+    "servers": [
+      {
+        "hostname": "irc.mimacy.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Mimacy"
+  },
+  {
+    "avgUsers": 556,
+    "avgChannels": 515,
+    "servers": [
+      {
+        "hostname": "irc.mindforge.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "MindForge"
+  },
+  {
+    "avgUsers": 176,
+    "avgChannels": 20,
+    "servers": [
+      {
+        "hostname": "irc.mircphantom.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "mircphantom.net"
+  },
+  {
+    "avgUsers": 184,
+    "avgChannels": 88,
+    "servers": [
+      {
+        "hostname": "irc.mixxnet.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "MIXXnet"
+  },
+  {
+    "avgUsers": 55,
+    "avgChannels": 46,
+    "servers": [
+      {
+        "hostname": "irc.moep.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "MoepNet"
+  },
+  {
+    "avgUsers": 4547,
+    "avgChannels": 1830,
+    "servers": [
+      {
+        "hostname": "irc.mozilla.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Mozilla"
+  },
+  {
+    "avgUsers": 26,
+    "avgChannels": 22,
+    "servers": [
+      {
+        "hostname": "irc.mundochat.com.ar",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.mundochat.com.ar",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.unirc.eu",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "MundoChat"
+  },
+  {
+    "avgUsers": 29,
+    "avgChannels": 27,
+    "servers": [
+      {
+        "hostname": "pervert.n00bstories.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "home.n00bstories.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "t3hhangout.n00bstories.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "n00bstories"
+  },
+  {
+    "avgUsers": 232,
+    "avgChannels": 38,
+    "servers": [
+      {
+        "hostname": "irc.nandox.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.nandox.com",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      }
+    ],
+    "name": "Nandox"
+  },
+  {
+    "avgUsers": 164,
+    "avgChannels": 79,
+    "servers": [
+      {
+        "hostname": "irc.nationchat.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc6.nationchat.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "NationCHAT"
+  },
+  {
+    "avgUsers": 36,
+    "avgChannels": 10,
+    "servers": [
+      {
+        "hostname": "irc.necron.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Necron"
+  },
+  {
+    "avgUsers": 18,
+    "avgChannels": 5,
+    "servers": [
+      {
+        "hostname": "pdx.or.us.neko-net.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "rotterdam.nl.eu.neko-net.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "amersfoort.nl.eu.neko-net.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "NekoNet"
+  },
+  {
+    "avgUsers": 31,
+    "avgChannels": 18,
+    "servers": [
+      {
+        "hostname": "irc.nerdfighteria.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.nerdfighteria.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.dftba.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "Nerdfighteria"
+  },
+  {
+    "avgUsers": 4,
+    "avgChannels": 2,
+    "servers": [
+      {
+        "hostname": "irc.nerdhacks.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "nictitate.nerdhacks.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "xalt.nerdhacks.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "showtime.nerdhacks.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "nerdhacks"
+  },
+  {
+    "avgUsers": 25,
+    "avgChannels": 26,
+    "servers": [
+      {
+        "hostname": "irc.netfuze.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "alpha.netfuze.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "beta.netfuze.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "Netfuze"
+  },
+  {
+    "avgUsers": 90,
+    "avgChannels": 55,
+    "servers": [
+      {
+        "hostname": "irc.netirc.eu",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "NetIRC"
+  },
+  {
+    "avgUsers": 119,
+    "avgChannels": 68,
+    "servers": [
+      {
+        "hostname": "irc.netrusk.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Netrusk"
+  },
+  {
+    "avgUsers": 39,
+    "avgChannels": 15,
+    "servers": [
+      {
+        "hostname": "irc.chat-irc.fr",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.neutralirc.info",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.chat-irc.fr",
+        "port": 6669,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "NeutralIRC"
+  },
+  {
+    "avgUsers": 249,
+    "avgChannels": 157,
+    "servers": [
+      {
+        "hostname": "irc.eskimo.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.newnet.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "NewNet"
+  },
+  {
+    "avgUsers": 117,
+    "avgChannels": 56,
+    "servers": [
+      {
+        "hostname": "wildworld.nextirc.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.nextirc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "NextIRC"
+  },
+  {
+    "avgUsers": 320,
+    "avgChannels": 230,
+    "servers": [
+      {
+        "hostname": "deepthought.nightstar.net",
+        "port": 6669,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "twisted-n-warped.nightstar.net",
+        "port": 6669,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "us.nightstar.net",
+        "port": 6669,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "independence.nightstar.net",
+        "port": 6669,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.nightstar.net",
+        "port": 6669,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "NightStar.Net"
+  },
+  {
+    "avgUsers": 29,
+    "avgChannels": 16,
+    "servers": [
+      {
+        "hostname": "irc.nix.co.il",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "pool2.irc.nix.co.il",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "il.irc.nix.co.il",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "NiX"
+  },
+  {
+    "avgUsers": 117,
+    "avgChannels": 25,
+    "servers": [
+      {
+        "hostname": "irc.nordicirc.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "NordicIRC"
+  },
+  {
+    "avgUsers": 110,
+    "avgChannels": 58,
+    "servers": [
+      {
+        "hostname": "irc.noxether.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Noxether"
+  },
+  {
+    "avgUsers": 101,
+    "avgChannels": 58,
+    "servers": [
+      {
+        "hostname": "irc.obsidianirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Obsidian-IRC"
+  },
+  {
+    "avgUsers": 1334,
+    "avgChannels": 29,
+    "servers": [
+      {
+        "hostname": "irc.oceanirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "OceanIRC"
+  },
+  {
+    "avgUsers": 25,
+    "avgChannels": 3,
+    "servers": [
+      {
+        "hostname": "hana.oceanius.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "adaro.oceanius.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "kane.oceanius.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Oceanius"
+  },
+  {
+    "avgUsers": 88,
+    "avgChannels": 55,
+    "servers": [
+      {
+        "hostname": "odennet.dyndns.org",
+        "port": 6668,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "odennet"
+  },
+  {
+    "avgUsers": 10190,
+    "avgChannels": 2412,
+    "servers": [
+      {
+        "hostname": "irc.oftc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "OFTC"
+  },
+  {
+    "avgUsers": 365,
+    "avgChannels": 1268,
+    "servers": [
+      {
+        "hostname": "irc.barafranca.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Omerta"
+  },
+  {
+    "avgUsers": 50,
+    "avgChannels": 31,
+    "servers": [
+      {
+        "hostname": "irc.omnimaga.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "omni.irc.omnimaga.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      },
+      {
+        "hostname": "eeems.irc.omnimaga.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      }
+    ],
+    "name": "Omninet"
+  },
+  {
+    "avgUsers": 16,
+    "avgChannels": 3,
+    "servers": [
+      {
+        "hostname": "irc.omofil.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Omofil"
+  },
+  {
+    "avgUsers": 1458,
+    "avgChannels": 2605,
+    "servers": [
+      {
+        "hostname": "irc.onlinegamesnet.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "OGN1.onlinegamesnet.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "JaBSnG.onlinegamesnet.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "OnlineGamesNet"
+  },
+  {
+    "avgUsers": 25,
+    "avgChannels": 18,
+    "servers": [
+      {
+        "hostname": "irc.onzin.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "onzin.org"
+  },
+  {
+    "avgUsers": 51,
+    "avgChannels": 18,
+    "servers": [
+      {
+        "hostname": "openasd.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "openasd.org",
+        "port": 6668,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "OpenASD"
+  },
+  {
+    "avgUsers": 90,
+    "avgChannels": 57,
+    "servers": [
+      {
+        "hostname": "irc.opera.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "OperaNet"
+  },
+  {
+    "avgUsers": 38,
+    "avgChannels": 22,
+    "servers": [
+      {
+        "hostname": "irc.ospnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.ospnet.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "OSPnet"
+  },
+  {
+    "avgUsers": 339,
+    "avgChannels": 147,
+    "servers": [
+      {
+        "hostname": "irc.otaku-irc.fr",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Otaku-IRC"
+  },
+  {
+    "avgUsers": 20,
+    "avgChannels": 18,
+    "servers": [
+      {
+        "hostname": "irc.othernet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "OtherNet"
+  },
+  {
+    "avgUsers": 85,
+    "avgChannels": 47,
+    "servers": [
+      {
+        "hostname": "irc.otherworlders.org",
+        "port": 6663,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.otherworlders.org",
+        "port": 6662,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.otherworlders.org",
+        "port": 6661,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "OtherWorlders"
+  },
+  {
+    "avgUsers": 46,
+    "avgChannels": 19,
+    "servers": [
+      {
+        "hostname": "irc.oyik.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "oYikNetwork"
+  },
+  {
+    "avgUsers": 227,
+    "avgChannels": 93,
+    "servers": [
+      {
+        "hostname": "irc.oz.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "oz.org"
+  },
+  {
+    "avgUsers": 2868,
+    "avgChannels": 889,
+    "servers": [
+      {
+        "hostname": "irc.p2p-irc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.p2p-network.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "P2P-NET"
+  },
+  {
+    "avgUsers": 108,
+    "avgChannels": 62,
+    "servers": [
+      {
+        "hostname": "irc.p2pchat.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "P2PChat"
+  },
+  {
+    "avgUsers": 2362,
+    "avgChannels": 97,
+    "servers": [
+      {
+        "hostname": "irc.panicirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "PanicIRC"
+  },
+  {
+    "avgUsers": 41,
+    "avgChannels": 27,
+    "servers": [
+      {
+        "hostname": "irc.paradoxirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "doom.paradoxirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "node.paradoxirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "ParadoxIRC"
+  },
+  {
+    "avgUsers": 119,
+    "avgChannels": 34,
+    "servers": [
+      {
+        "hostname": "irc.paranode.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "paranode.net"
+  },
+  {
+    "avgUsers": 25,
+    "avgChannels": 27,
+    "servers": [
+      {
+        "hostname": "irc.pc-logix.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "eos.pc-logix.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "ender.pc-logix.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "PC-Logix"
+  },
+  {
+    "avgUsers": 58,
+    "avgChannels": 19,
+    "servers": [
+      {
+        "hostname": "irc.penguinfriends.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.penguinfriends.org",
+        "port": 6670,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "PenguinFriends"
+  },
+  {
+    "avgUsers": 98,
+    "avgChannels": 45,
+    "servers": [
+      {
+        "hostname": "irc.phat-net.de",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "PhatNET"
+  },
+  {
+    "avgUsers": 15,
+    "avgChannels": 4,
+    "servers": [
+      {
+        "hostname": "irc.phrenzy.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "phrenzyIRC"
+  },
+  {
+    "avgUsers": 785,
+    "avgChannels": 118,
+    "servers": [
+      {
+        "hostname": "irc.krstarica.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "PIK"
+  },
+  {
+    "avgUsers": 64,
+    "avgChannels": 20,
+    "servers": [
+      {
+        "hostname": "irc.pilgerer.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Pilgerer"
+  },
+  {
+    "avgUsers": 324,
+    "avgChannels": 144,
+    "servers": [
+      {
+        "hostname": "irc.pirc.pl",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "redbull.pirc.pl",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "samu.pirc.pl",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "tril.pirc.pl",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "PIRC.pl"
+  },
+  {
+    "avgUsers": 168,
+    "avgChannels": 72,
+    "servers": [
+      {
+        "hostname": "irc.place2chat.be",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "place2chat.be"
+  },
+  {
+    "avgUsers": 160,
+    "avgChannels": 68,
+    "servers": [
+      {
+        "hostname": "irc.place2chat.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "place2chat.com"
+  },
+  {
+    "avgUsers": 28,
+    "avgChannels": 20,
+    "servers": [
+      {
+        "hostname": "irc.ircnet.pl",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "torun.ircnet.pl",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "katowice.ircnet.pl",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "PolNet"
+  },
+  {
+    "avgUsers": 527,
+    "avgChannels": 434,
+    "servers": [
+      {
+        "hostname": "irc.ponychat.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "PonyChat"
+  },
+  {
+    "avgUsers": 7,
+    "avgChannels": 0,
+    "servers": [
+      {
+        "hostname": "irc.portalx.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "portalx.org"
+  },
+  {
+    "avgUsers": 110,
+    "avgChannels": 55,
+    "servers": [
+      {
+        "hostname": "irc.powanet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "PowaNet"
+  },
+  {
+    "avgUsers": 25,
+    "avgChannels": 13,
+    "servers": [
+      {
+        "hostname": "irc.powerfriends.es",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "PowerFriends"
+  },
+  {
+    "avgUsers": 26,
+    "avgChannels": 2,
+    "servers": [
+      {
+        "hostname": "irc.powers.cl",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Powers.cl"
+  },
+  {
+    "avgUsers": 12,
+    "avgChannels": 8,
+    "servers": [
+      {
+        "hostname": "cba.procrast.net",
+        "port": 4321,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "imgonna.procrast.net",
+        "port": 4321,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "moose.procrast.net",
+        "port": 4321,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Procrast.Net"
+  },
+  {
+    "avgUsers": 48,
+    "avgChannels": 8,
+    "servers": [
+      {
+        "hostname": "irc.ps3sanctuary.co.uk",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.ps3sanctuary.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "PS3Sanctuary"
+  },
+  {
+    "avgUsers": 198,
+    "avgChannels": 101,
+    "servers": [
+      {
+        "hostname": "irc.psigenix.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "chronos.psigenix.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "PSIGenix"
+  },
+  {
+    "avgUsers": 689,
+    "avgChannels": 312,
+    "servers": [
+      {
+        "hostname": "irc.ptnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "PTnet"
+  },
+  {
+    "avgUsers": 101,
+    "avgChannels": 69,
+    "servers": [
+      {
+        "hostname": "irc.purplesurge.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "PurpleSurge"
+  },
+  {
+    "avgUsers": 24410,
+    "avgChannels": 20177,
+    "servers": [
+      {
+        "hostname": "irc.quakenet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "port80a.se.quakenet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "port80b.se.quakenet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "euroserv.fr.quakenet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "servercentral.il.us.quakenet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "blacklotus.ca.us.quakenet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "QuakeNet"
+  },
+  {
+    "avgUsers": 541,
+    "avgChannels": 33,
+    "servers": [
+      {
+        "hostname": "irc.quartznet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "QuartzNet"
+  },
+  {
+    "avgUsers": 21,
+    "avgChannels": 30,
+    "servers": [
+      {
+        "hostname": "irc.quickfox.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "jumpgate.irc.quickfox.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "QuickFox"
+  },
+  {
+    "avgUsers": 30,
+    "avgChannels": 4,
+    "servers": [
+      {
+        "hostname": "irc.ragingfist.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "RagingFist.net"
+  },
+  {
+    "avgUsers": 98,
+    "avgChannels": 31,
+    "servers": [
+      {
+        "hostname": "irc.rc6.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "rc6"
+  },
+  {
+    "avgUsers": 27,
+    "avgChannels": 7,
+    "servers": [
+      {
+        "hostname": "irc.realirc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "RealIRC"
+  },
+  {
+    "avgUsers": 20,
+    "avgChannels": 25,
+    "servers": [
+      {
+        "hostname": "irc.rebelnet.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.rebelnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.us.rebelnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "RebelNet"
+  },
+  {
+    "avgUsers": 701,
+    "avgChannels": 247,
+    "servers": [
+      {
+        "hostname": "irc.recycled-irc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Recycled-IRC"
+  },
+  {
+    "avgUsers": 7,
+    "avgChannels": 2,
+    "servers": [
+      {
+        "hostname": "irc.redenorte.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.redenorte.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "RedeNorte"
+  },
+  {
+    "avgUsers": 46,
+    "avgChannels": 84,
+    "servers": [
+      {
+        "hostname": "irc.ryukyu.ad.jp",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.matatabi.or.jp",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.reicha.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ReichaNet"
+  },
+  {
+    "avgUsers": 189,
+    "avgChannels": 21,
+    "servers": [
+      {
+        "hostname": "irc.relaxedirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "hub.relaxedirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "RelaxedIRC"
+  },
+  {
+    "avgUsers": 53,
+    "avgChannels": 12,
+    "servers": [
+      {
+        "hostname": "irc.relic.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "bulletproof.relic.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "RelicNet"
+  },
+  {
+    "avgUsers": 808,
+    "avgChannels": 670,
+    "servers": [
+      {
+        "hostname": "irc.rezosup.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "RezoSup"
+  },
+  {
+    "avgUsers": 96,
+    "avgChannels": 44,
+    "servers": [
+      {
+        "hostname": "irc.ringoflightning.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "proxima.ringoflightning.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "citadel.ringoflightning.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "polar.ringoflightning.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "Ring.of.Lightning"
+  },
+  {
+    "avgUsers": 39,
+    "avgChannels": 17,
+    "servers": [
+      {
+        "hostname": "irc.risposteinformatiche.it",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.risposteinformatiche.it",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "RisposteInformatiche"
+  },
+  {
+    "avgUsers": 17827,
+    "avgChannels": 18665,
+    "servers": [
+      {
+        "hostname": "irc.as.rizon.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.rizon.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.eu.rizon.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.us.rizon.net",
+        "port": 7000,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Rizon"
+  },
+  {
+    "avgUsers": 178,
+    "avgChannels": 49,
+    "servers": [
+      {
+        "hostname": "budapest.hu.eu.roirc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "timisoara.ro.eu.roirc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.roirc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "RoIRC"
+  },
+  {
+    "avgUsers": 119,
+    "avgChannels": 18,
+    "servers": [
+      {
+        "hostname": "irc.roircop.info",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.roircop.info",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "RoIRCop"
+  },
+  {
+    "avgUsers": 625,
+    "avgChannels": 24,
+    "servers": [
+      {
+        "hostname": "irc.rootworld.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "RootWorlD"
+  },
+  {
+    "avgUsers": 64,
+    "avgChannels": 19,
+    "servers": [
+      {
+        "hostname": "irc.icedslash.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.rs2i.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "rs2i"
+  },
+  {
+    "avgUsers": 997,
+    "avgChannels": 920,
+    "servers": [
+      {
+        "hostname": "irc.ventelo.de",
+        "port": 6660,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.run.net",
+        "port": 6660,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.lucky.net",
+        "port": 6660,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "RusNet"
+  },
+  {
+    "avgUsers": 69,
+    "avgChannels": 41,
+    "servers": [
+      {
+        "hostname": "irc.sa-irc.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "SA-IRC"
+  },
+  {
+    "avgUsers": 96,
+    "avgChannels": 61,
+    "servers": [
+      {
+        "hostname": "irc.sacnr.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "SACNR"
+  },
+  {
+    "avgUsers": 99,
+    "avgChannels": 36,
+    "servers": [
+      {
+        "hostname": "sailirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "sailirc.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "sailirc.net"
+  },
+  {
+    "avgUsers": 39,
+    "avgChannels": 23,
+    "servers": [
+      {
+        "hostname": "irc.sameteem.com",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.sameteem.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "SameTeem"
+  },
+  {
+    "avgUsers": 157,
+    "avgChannels": 108,
+    "servers": [
+      {
+        "hostname": "irc.saurik.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Saurik"
+  },
+  {
+    "avgUsers": 191,
+    "avgChannels": 19,
+    "servers": [
+      {
+        "hostname": "irc.scarynet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "amsterdam.nl.eu.scarynet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "ScaryNet"
+  },
+  {
+    "avgUsers": 100,
+    "avgChannels": 42,
+    "servers": [
+      {
+        "hostname": "irc.scenecritique.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "SceneCritique"
+  },
+  {
+    "avgUsers": 936,
+    "avgChannels": 51,
+    "servers": [
+      {
+        "hostname": "irc.scenep2p.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.scenep2p.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "SceneP2P"
+  },
+  {
+    "avgUsers": 186,
+    "avgChannels": 62,
+    "servers": [
+      {
+        "hostname": "nl01.scoutlink.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "be01.scoutlink.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "de03.scoutlink.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "chat.scoutlink.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ScoutLink"
+  },
+  {
+    "avgUsers": 101,
+    "avgChannels": 67,
+    "servers": [
+      {
+        "hostname": "spirit.seersirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "guardian.seersirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "vision.seersirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "SeersIRC"
+  },
+  {
+    "avgUsers": 32,
+    "avgChannels": 17,
+    "servers": [
+      {
+        "hostname": "irc.seraphimlabs.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Seraphim"
+  },
+  {
+    "avgUsers": 57,
+    "avgChannels": 23,
+    "servers": [
+      {
+        "hostname": "chat.serenia.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc2.serenia.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Serenia"
+  },
+  {
+    "avgUsers": 42,
+    "avgChannels": 28,
+    "servers": [
+      {
+        "hostname": "irc.serenity-irc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Serenity-IRC"
+  },
+  {
+    "avgUsers": 218,
+    "avgChannels": 129,
+    "servers": [
+      {
+        "hostname": "irc.shadowfire.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ShadowFire"
+  },
+  {
+    "avgUsers": 170,
+    "avgChannels": 28,
+    "servers": [
+      {
+        "hostname": "irc.shadowict.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "proliant.ca.shadowict.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "samsung.ca.shadowict.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      },
+      {
+        "hostname": "samsung.ca.shadowict.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "ShadowICT"
+  },
+  {
+    "avgUsers": 13,
+    "avgChannels": 8,
+    "servers": [
+      {
+        "hostname": "irc.yolo-swag.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.yolo-swag.com",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "ShadowNET"
+  },
+  {
+    "avgUsers": 65,
+    "avgChannels": 36,
+    "servers": [
+      {
+        "hostname": "irc.shadowworld.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "eu.shadowworld.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ShadowWorld.Net"
+  },
+  {
+    "avgUsers": 169,
+    "avgChannels": 136,
+    "servers": [
+      {
+        "hostname": "eu.bgit.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.index.bg",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.zonebg.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ShakeIT"
+  },
+  {
+    "avgUsers": 256,
+    "avgChannels": 65,
+    "servers": [
+      {
+        "hostname": "irc.siberchat.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "SiberChat.Org"
+  },
+  {
+    "avgUsers": 19,
+    "avgChannels": 9,
+    "servers": [
+      {
+        "hostname": "irc.sierranet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "twp.sierranet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "delphi.sierranet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "mercury.sierranet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "sierranet.org"
+  },
+  {
+    "avgUsers": 16,
+    "avgChannels": 7,
+    "servers": [
+      {
+        "hostname": "silph.co",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "silph.co",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      }
+    ],
+    "name": "silph"
+  },
+  {
+    "avgUsers": 1311,
+    "avgChannels": 317,
+    "servers": [
+      {
+        "hostname": "irc.simosnap.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "gaia.simosnap.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "freebsd.simosnap.com",
+        "port": 9999,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "SimosNap"
+  },
+  {
+    "avgUsers": 62,
+    "avgChannels": 26,
+    "servers": [
+      {
+        "hostname": "sapphire.sinsira.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.sinsira.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "onyx.sinsira.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      },
+      {
+        "hostname": "ruby.sinsira.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      }
+    ],
+    "name": "Sinsira"
+  },
+  {
+    "avgUsers": 23,
+    "avgChannels": 69,
+    "servers": [
+      {
+        "hostname": "irc.skyirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.morosystems.de",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "SkyIrc"
+  },
+  {
+    "avgUsers": 2378,
+    "avgChannels": 316,
+    "servers": [
+      {
+        "hostname": "irc.skyrock.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "SKYROCK"
+  },
+  {
+    "avgUsers": 198,
+    "avgChannels": 34,
+    "servers": [
+      {
+        "hostname": "irc.slacked.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "altair.slacked.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "Slacked"
+  },
+  {
+    "avgUsers": 67,
+    "avgChannels": 27,
+    "servers": [
+      {
+        "hostname": "irc.slacknet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.rabid-duck.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "irc.xc.ly",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "Slacknet"
+  },
+  {
+    "avgUsers": 1271,
+    "avgChannels": 508,
+    "servers": [
+      {
+        "hostname": "pinky.slashnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "moo.slashnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "area51.slashnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "vortex.slashnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "SlashNET"
+  },
+  {
+    "avgUsers": 372,
+    "avgChannels": 135,
+    "servers": [
+      {
+        "hostname": "irc.smurfnet.ch",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.smurfnet.ch",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "Smurfnet"
+  },
+  {
+    "avgUsers": 4473,
+    "avgChannels": 4021,
+    "servers": [
+      {
+        "hostname": "irc.snoonet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Snoonet"
+  },
+  {
+    "avgUsers": 27,
+    "avgChannels": 13,
+    "servers": [
+      {
+        "hostname": "irc.snyde.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Snyde"
+  },
+  {
+    "avgUsers": 3,
+    "avgChannels": 2,
+    "servers": [
+      {
+        "hostname": "irc.socialinachat.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "SocialinaChat"
+  },
+  {
+    "avgUsers": 805,
+    "avgChannels": 100,
+    "servers": [
+      {
+        "hostname": "irc.sohbet.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Sohbet.net"
+  },
+  {
+    "avgUsers": 8,
+    "avgChannels": 8,
+    "servers": [
+      {
+        "hostname": "irc.solarnet.ru",
+        "port": 9997,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.msk.solarnet.ru",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.solarnet.ru",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.msk.solarnet.ru",
+        "port": 9997,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "SolarNet"
+  },
+  {
+    "avgUsers": 20,
+    "avgChannels": 10,
+    "servers": [
+      {
+        "hostname": "irc.solirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.solirc.net",
+        "port": 6994,
+        "ssl": true,
+        "isMainServer": false
+      }
+    ],
+    "name": "SOLIRC"
+  },
+  {
+    "avgUsers": 52,
+    "avgChannels": 20,
+    "servers": [
+      {
+        "hostname": "irc.somenet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "SomeNet"
+  },
+  {
+    "avgUsers": 1668,
+    "avgChannels": 1150,
+    "servers": [
+      {
+        "hostname": "irc.sorcery.net",
+        "port": 9000,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "SorceryNet"
+  },
+  {
+    "avgUsers": 24,
+    "avgChannels": 16,
+    "servers": [
+      {
+        "hostname": "irc.soundsnwaves.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "rockin.soundsnwaves.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "SoundsNWaves.net"
+  },
+  {
+    "avgUsers": 108,
+    "avgChannels": 73,
+    "servers": [
+      {
+        "hostname": "irc.soylentnews.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.soylentnews.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "SoylentNews"
+  },
+  {
+    "avgUsers": 4,
+    "avgChannels": 1,
+    "servers": [
+      {
+        "hostname": "mccarragher.org",
+        "port": 6669,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "mccarragher.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "mccarragher.org",
+        "port": 6668,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "SpaceSST"
+  },
+  {
+    "avgUsers": 39,
+    "avgChannels": 13,
+    "servers": [
+      {
+        "hostname": "irc.spiderchat.org",
+        "port": 7000,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.spiderchat.org",
+        "port": 6660,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.spiderchat.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "SpiderChat"
+  },
+  {
+    "avgUsers": 568,
+    "avgChannels": 334,
+    "servers": [
+      {
+        "hostname": "irc.spi.gt",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.spi.gt",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "SpigotMC"
+  },
+  {
+    "avgUsers": 397,
+    "avgChannels": 69,
+    "servers": [
+      {
+        "hostname": "blub.de.spotchat.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.spotchat.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "SpotChat"
+  },
+  {
+    "avgUsers": 72,
+    "avgChannels": 95,
+    "servers": [
+      {
+        "hostname": "irc.st-city.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ST-City"
+  },
+  {
+    "avgUsers": 19,
+    "avgChannels": 17,
+    "servers": [
+      {
+        "hostname": "irc.staff-chat.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Staff-Chat.net"
+  },
+  {
+    "avgUsers": 213,
+    "avgChannels": 88,
+    "servers": [
+      {
+        "hostname": "irc.starchat.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "StarChat"
+  },
+  {
+    "avgUsers": 82,
+    "avgChannels": 51,
+    "servers": [
+      {
+        "hostname": "rochester.mi.us.starlink-irc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.starlink-irc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "wichita.ks.us.starlink-irc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "williamslake.bc.ca.starlink-irc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "StarLink-IRC"
+  },
+  {
+    "avgUsers": 45,
+    "avgChannels": 50,
+    "servers": [
+      {
+        "hostname": "irc.starlink.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "StarLink.Org"
+  },
+  {
+    "avgUsers": 30,
+    "avgChannels": 22,
+    "servers": [
+      {
+        "hostname": "irc.stardustfields.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "StarNet"
+  },
+  {
+    "avgUsers": 456,
+    "avgChannels": 93,
+    "servers": [
+      {
+        "hostname": "irc.station51.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "ferret.station51.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "otter.station51.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Station51.net"
+  },
+  {
+    "avgUsers": 23,
+    "avgChannels": 10,
+    "servers": [
+      {
+        "hostname": "irc.staynet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "StayNet"
+  },
+  {
+    "avgUsers": 235,
+    "avgChannels": 209,
+    "servers": [
+      {
+        "hostname": "irc.stormbit.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.stormbit.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "StormBit"
+  },
+  {
+    "avgUsers": 21,
+    "avgChannels": 5,
+    "servers": [
+      {
+        "hostname": "irc.striked.org",
+        "port": 7000,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.striked.org",
+        "port": 6668,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.striked.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Striked"
+  },
+  {
+    "avgUsers": 82,
+    "avgChannels": 68,
+    "servers": [
+      {
+        "hostname": "irc.subluminal.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "mindjail.subluminal.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "abacus.subluminal.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "Subluminal"
+  },
+  {
+    "avgUsers": 122,
+    "avgChannels": 137,
+    "servers": [
+      {
+        "hostname": "irc.surrealchat.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "alderaan.surrealchat.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "SurrealChat.net"
+  },
+  {
+    "avgUsers": 1425,
+    "avgChannels": 1477,
+    "servers": [
+      {
+        "hostname": "irc.swiftirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "SwiftIRC"
+  },
+  {
+    "avgUsers": 53,
+    "avgChannels": 15,
+    "servers": [
+      {
+        "hostname": "irc.swissirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "swissIRC.net"
+  },
+  {
+    "avgUsers": 5463,
+    "avgChannels": 2257,
+    "servers": [
+      {
+        "hostname": "irc.synirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "synIRC"
+  },
+  {
+    "avgUsers": 17,
+    "avgChannels": 10,
+    "servers": [
+      {
+        "hostname": "deimos.syrolnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "moon.syrolnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "phobos.syrolnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "SyrolNet"
+  },
+  {
+    "avgUsers": 55,
+    "avgChannels": 13,
+    "servers": [
+      {
+        "hostname": "hotep.taphouse.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.taphouse.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "frop.taphouse.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Taphouse"
+  },
+  {
+    "avgUsers": 96,
+    "avgChannels": 34,
+    "servers": [
+      {
+        "hostname": "irc.tawx.net",
+        "port": 6668,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.tawx.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "tawx"
+  },
+  {
+    "avgUsers": 190,
+    "avgChannels": 41,
+    "servers": [
+      {
+        "hostname": "storm.techtronix.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.techtronix.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "ballista.techtronix.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "Techtronix"
+  },
+  {
+    "avgUsers": 81,
+    "avgChannels": 15,
+    "servers": [
+      {
+        "hostname": "irc.teepi.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Teepi"
+  },
+  {
+    "avgUsers": 185,
+    "avgChannels": 40,
+    "servers": [
+      {
+        "hostname": "irc.telefragged.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Telefragged"
+  },
+  {
+    "avgUsers": 150,
+    "avgChannels": 50,
+    "servers": [
+      {
+        "hostname": "irc.teranova.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "sigsegv.teranova.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "chronos.teranova.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "volcano.teranova.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "Teranova"
+  },
+  {
+    "avgUsers": 252,
+    "avgChannels": 17,
+    "servers": [
+      {
+        "hostname": "irc.terrachat.cl",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc2.terrachat.cl",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "irc1.terrachat.cl",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "TerraChat"
+  },
+  {
+    "avgUsers": 30,
+    "avgChannels": 18,
+    "servers": [
+      {
+        "hostname": "irc.theonering.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "TheOneRing"
+  },
+  {
+    "avgUsers": 60,
+    "avgChannels": 24,
+    "servers": [
+      {
+        "hostname": "irc.transadvice.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.transadvice.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "TransAdvice"
+  },
+  {
+    "avgUsers": 87,
+    "avgChannels": 73,
+    "servers": [
+      {
+        "hostname": "irc.tribalwar.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "TribalWar"
+  },
+  {
+    "avgUsers": 323,
+    "avgChannels": 222,
+    "servers": [
+      {
+        "hostname": "irc.tripsit.me",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.tripsit.me",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "bajor.tripsit.me",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      },
+      {
+        "hostname": "coconut.tripsit.me",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      }
+    ],
+    "name": "TripSit"
+  },
+  {
+    "avgUsers": 167,
+    "avgChannels": 51,
+    "servers": [
+      {
+        "hostname": "irc.trivialityzone.co.uk",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "TrivialityZone"
+  },
+  {
+    "avgUsers": 1326,
+    "avgChannels": 197,
+    "servers": [
+      {
+        "hostname": "irc.trsohbet.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "TRSohbet"
+  },
+  {
+    "avgUsers": 22,
+    "avgChannels": 7,
+    "servers": [
+      {
+        "hostname": "irc.trypnet.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.trypnet.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.trypnet.info",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "TrYPNET"
+  },
+  {
+    "avgUsers": 84,
+    "avgChannels": 33,
+    "servers": [
+      {
+        "hostname": "irc.tsukihi.me",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "redwings.tsukihi.me",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "TsukiIRC"
+  },
+  {
+    "avgUsers": 19,
+    "avgChannels": 5,
+    "servers": [
+      {
+        "hostname": "irc.tutomatik.fr",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.tutomatik.fr",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "TUTOMATIK.FR"
+  },
+  {
+    "avgUsers": 259,
+    "avgChannels": 140,
+    "servers": [
+      {
+        "hostname": "irc.tweakers.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "osiris.parse.nl",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "Tweakers"
+  },
+  {
+    "avgUsers": 85,
+    "avgChannels": 20,
+    "servers": [
+      {
+        "hostname": "irc.ukchatbox.org.uk",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.ukchatbox.org.uk",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "UKChatBox"
+  },
+  {
+    "avgUsers": 40,
+    "avgChannels": 17,
+    "servers": [
+      {
+        "hostname": "irc.undermind.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "UnderMind"
+  },
+  {
+    "avgUsers": 17475,
+    "avgChannels": 6698,
+    "servers": [
+      {
+        "hostname": "eu.undernet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.undernet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "budapest.hu.eu.undernet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "denver.us.ix.undernet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "Undernet"
+  },
+  {
+    "avgUsers": 186,
+    "avgChannels": 177,
+    "servers": [
+      {
+        "hostname": "irc.unibg.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "UniBG"
+  },
+  {
+    "avgUsers": 332,
+    "avgChannels": 288,
+    "servers": [
+      {
+        "hostname": "irc.unitedchat.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "UnitedChat"
+  },
+  {
+    "avgUsers": 81,
+    "avgChannels": 130,
+    "servers": [
+      {
+        "hostname": "irc.unovarpgnet.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "UnovaRPGNet"
+  },
+  {
+    "avgUsers": 24,
+    "avgChannels": 22,
+    "servers": [
+      {
+        "hostname": "irc.uplinkcorp.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "UplinkIRC"
+  },
+  {
+    "avgUsers": 274,
+    "avgChannels": 350,
+    "servers": [
+      {
+        "hostname": "irc.utonet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "UtoNet"
+  },
+  {
+    "avgUsers": 167,
+    "avgChannels": 148,
+    "servers": [
+      {
+        "hostname": "irc.vircio.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "vIRCio"
+  },
+  {
+    "avgUsers": 0,
+    "avgChannels": 0,
+    "servers": [
+      {
+        "hostname": "irc.virtualife.com.br",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.virtualife.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "VirtuaLife"
+  },
+  {
+    "avgUsers": 38,
+    "avgChannels": 21,
+    "servers": [
+      {
+        "hostname": "irc.virtualirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "orion.virtualirc.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": false
+      },
+      {
+        "hostname": "rigel.virtualirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "orion.virtualirc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "VirtualIRC"
+  },
+  {
+    "avgUsers": 60,
+    "avgChannels": 30,
+    "servers": [
+      {
+        "hostname": "irc.volatile.ch",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.volatile.ch",
+        "port": 9999,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "Volatile"
+  },
+  {
+    "avgUsers": 42,
+    "avgChannels": 13,
+    "servers": [
+      {
+        "hostname": "irc.volimo.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc2.volimo.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      },
+      {
+        "hostname": "irc4.volimo.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "VolimoNet"
+  },
+  {
+    "avgUsers": 22,
+    "avgChannels": 10,
+    "servers": [
+      {
+        "hostname": "irc.voodoonet.biz",
+        "port": 6668,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.voodoonet.biz",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "VoodooNet"
+  },
+  {
+    "avgUsers": 280,
+    "avgChannels": 184,
+    "servers": [
+      {
+        "hostname": "irc.w3.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.w3.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "w3.org"
+  },
+  {
+    "avgUsers": 37,
+    "avgChannels": 14,
+    "servers": [
+      {
+        "hostname": "irc.wackychat.co.uk",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "WackyChat"
+  },
+  {
+    "avgUsers": 20,
+    "avgChannels": 23,
+    "servers": [
+      {
+        "hostname": "irc.wanascape.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Wanascape"
+  },
+  {
+    "avgUsers": 11,
+    "avgChannels": 1,
+    "servers": [
+      {
+        "hostname": "irc.warp-radio.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.warp-radio.com",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "WARPRadioNetwork"
+  },
+  {
+    "avgUsers": 25,
+    "avgChannels": 11,
+    "servers": [
+      {
+        "hostname": "irc.webcastsonline.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "logitech.webcastsonline.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "WebcastsOnline"
+  },
+  {
+    "avgUsers": 371,
+    "avgChannels": 485,
+    "servers": [
+      {
+        "hostname": "nexus.webmaster.com",
+        "port": 7000,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "WebMaster"
+  },
+  {
+    "avgUsers": 407,
+    "avgChannels": 372,
+    "servers": [
+      {
+        "hostname": "irc.wenet.ru",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "WeNet"
+  },
+  {
+    "avgUsers": 430,
+    "avgChannels": 119,
+    "servers": [
+      {
+        "hostname": "irc.whatnet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "WhatNET"
+  },
+  {
+    "avgUsers": 73,
+    "avgChannels": 44,
+    "servers": [
+      {
+        "hostname": "irc.wikkedwire.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "WikkedWire"
+  },
+  {
+    "avgUsers": 12,
+    "avgChannels": 5,
+    "servers": [
+      {
+        "hostname": "cyb.se.eu.wondernet.nu",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "eu.wondernet.nu",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.wondernet.nu",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "WonderNet"
+  },
+  {
+    "avgUsers": 187,
+    "avgChannels": 16,
+    "servers": [
+      {
+        "hostname": "irc.worldirc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "eu.worldirc.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "WorldIRC"
+  },
+  {
+    "avgUsers": 386,
+    "avgChannels": 225,
+    "servers": [
+      {
+        "hostname": "irc.worldnet.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Worldnet"
+  },
+  {
+    "avgUsers": 10,
+    "avgChannels": 4,
+    "servers": [
+      {
+        "hostname": "irc.wotnet.com",
+        "port": 9000,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.digitalghost.co.uk",
+        "port": 9000,
+        "ssl": true,
+        "isMainServer": false
+      },
+      {
+        "hostname": "irc.blackwand.net",
+        "port": 9000,
+        "ssl": true,
+        "isMainServer": false
+      }
+    ],
+    "name": "Wotnet"
+  },
+  {
+    "avgUsers": 141,
+    "avgChannels": 26,
+    "servers": [
+      {
+        "hostname": "irc.wtfux.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.wtfux.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "WTFuxNet"
+  },
+  {
+    "avgUsers": 45,
+    "avgChannels": 38,
+    "servers": [
+      {
+        "hostname": "irc.wug.za.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.jawug.org.za",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "WugNet"
+  },
+  {
+    "avgUsers": 26,
+    "avgChannels": 20,
+    "servers": [
+      {
+        "hostname": "irc.wup.nu",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "WUP"
+  },
+  {
+    "avgUsers": 46,
+    "avgChannels": 131,
+    "servers": [
+      {
+        "hostname": "irc.xchannel.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "XChannel"
+  },
+  {
+    "avgUsers": 179,
+    "avgChannels": 75,
+    "servers": [
+      {
+        "hostname": "irc.Xerologic.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Xerologic"
+  },
+  {
+    "avgUsers": 132,
+    "avgChannels": 74,
+    "servers": [
+      {
+        "hostname": "irc.xeromem.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "usa.xeromem.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "euro.xeromem.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "XeroMem"
+  },
+  {
+    "avgUsers": 187,
+    "avgChannels": 74,
+    "servers": [
+      {
+        "hostname": "irc.xertion.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.xertion.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "Xertion"
+  },
+  {
+    "avgUsers": 145,
+    "avgChannels": 33,
+    "servers": [
+      {
+        "hostname": "irc.xevion.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Xevion.Net"
+  },
+  {
+    "avgUsers": 92,
+    "avgChannels": 43,
+    "servers": [
+      {
+        "hostname": "irc.xmission.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc3.xmission.com",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc2.xmission.com",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc1.xmission.com",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "XMission"
+  },
+  {
+    "avgUsers": 44,
+    "avgChannels": 38,
+    "servers": [
+      {
+        "hostname": "irc.s-vfu.ru",
+        "port": 6665,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.lghost.ru",
+        "port": 6665,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.ykt.ru",
+        "port": 6665,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "YakNet"
+  },
+  {
+    "avgUsers": 102,
+    "avgChannels": 63,
+    "servers": [
+      {
+        "hostname": "irc.zairc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.zairc.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "ZAIRC"
+  },
+  {
+    "avgUsers": 246,
+    "avgChannels": 277,
+    "servers": [
+      {
+        "hostname": "irc.zandronum.com",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Zandronum"
+  },
+  {
+    "avgUsers": 202,
+    "avgChannels": 13,
+    "servers": [
+      {
+        "hostname": "irc.zemra.org",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.zemra.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "web.knaqu.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": false
+      }
+    ],
+    "name": "Zemra"
+  },
+  {
+    "avgUsers": 239,
+    "avgChannels": 51,
+    "servers": [
+      {
+        "hostname": "irc.zenet.org",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ZEnet"
+  },
+  {
+    "avgUsers": 66,
+    "avgChannels": 24,
+    "servers": [
+      {
+        "hostname": "irc.zeolia.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.zeolia.net",
+        "port": 6668,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.zeolia.net",
+        "port": 6660,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "zeolia"
+  },
+  {
+    "avgUsers": 94,
+    "avgChannels": 22,
+    "servers": [
+      {
+        "hostname": "irc.us.zeronode.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.zeronode.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "ZeroNode"
+  },
+  {
+    "avgUsers": 49,
+    "avgChannels": 65,
+    "servers": [
+      {
+        "hostname": "laeta.zoite.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "sexy.zoite.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "affinity.zoite.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "Zoite"
+  }
+]
