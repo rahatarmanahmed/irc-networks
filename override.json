@@ -32,5 +32,39 @@
       }
     ],
     "name": "EsperNet"
+  },
+  {
+    "servers": [
+      {
+        "hostname": "irc.rizon.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.rizon.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "Rizon"
+  },
+  {
+    "servers": [
+      {
+        "hostname": "irc.oftc.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.oftc.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "OFTC"
   }
 ]

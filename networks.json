@@ -5934,6 +5934,12 @@
         "port": 6667,
         "ssl": false,
         "isMainServer": true
+      },
+      {
+        "hostname": "irc.oftc.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
       }
     ],
     "name": "OFTC"
@@ -6872,27 +6878,15 @@
     "avgChannels": 18665,
     "servers": [
       {
-        "hostname": "irc.as.rizon.net",
-        "port": 6667,
-        "ssl": false,
-        "isMainServer": true
-      },
-      {
         "hostname": "irc.rizon.net",
         "port": 6667,
         "ssl": false,
         "isMainServer": true
       },
       {
-        "hostname": "irc.eu.rizon.net",
-        "port": 6667,
-        "ssl": false,
-        "isMainServer": true
-      },
-      {
-        "hostname": "irc.us.rizon.net",
-        "port": 7000,
-        "ssl": false,
+        "hostname": "irc.rizon.net",
+        "port": 6697,
+        "ssl": true,
         "isMainServer": true
       }
     ],
