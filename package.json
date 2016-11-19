@@ -1,7 +1,7 @@
 {
   "name": "irc-networks",
   "description": "JSON list of irc networks scraped from irc.netsplit.de",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "networks.json",
   "files": [
