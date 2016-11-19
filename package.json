@@ -3,7 +3,7 @@
   "description": "JSON list of irc servers scraped from irc.netsplit.de",
   "version": "0.0.0",
   "license": "MIT",
-  "main": "networks.js",
+  "main": "networks.json",
   "files": [
     "networks.json"
   ],
@@ -11,7 +11,7 @@
   "repository": "rahatarmanahmed/irc-servers",
   "scripts": {
     "test": "standard",
-    "start": "node lib/scrape.js > networks.json"
+    "start": "node lib/scrape.js > raw-networks.json && node lib/override.js"
   },
   "devDependencies": {
     "JSONStream": "^1.2.1",

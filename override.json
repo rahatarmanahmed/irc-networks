@@ -1,0 +1,36 @@
+[
+  {
+    "servers": [
+      {
+        "hostname": "chat.freenode.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      },
+      {
+        "hostname": "chat.freenode.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      }
+    ],
+    "name": "freenode"
+  },
+  {
+    "servers": [
+      {
+        "hostname": "irc.esper.net",
+        "port": 6667,
+        "ssl": false,
+        "isMainServer": true
+      },
+      {
+        "hostname": "irc.esper.net",
+        "port": 6697,
+        "ssl": true,
+        "isMainServer": true
+      }
+    ],
+    "name": "EsperNet"
+  }
+]
