@@ -1,14 +1,15 @@
 {
-  "name": "irc-servers",
-  "description": "JSON list of irc servers scraped from irc.netsplit.de",
+  "name": "irc-networks",
+  "description": "JSON list of irc networks scraped from irc.netsplit.de",
   "version": "0.0.0",
   "license": "MIT",
   "main": "networks.json",
   "files": [
-    "networks.json"
+    "networks.json",
+    "raw-networks.json"
   ],
   "author": "Rahat Ahmed",
-  "repository": "rahatarmanahmed/irc-servers",
+  "repository": "rahatarmanahmed/irc-networks",
   "scripts": {
     "test": "standard",
     "start": "node lib/scrape.js > raw-networks.json && node lib/override.js"
