@@ -8,7 +8,7 @@ If you find any outdated or incorrect servers listed here, or know of better gen
 
 ## Usage
 ```js
-var networks = require('irc-ne');
+var networks = require('irc-networks');
 ```
 
 The first couple networks look like this:
