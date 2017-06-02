@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "JSONStream": "^1.2.1",
-    "standard": "^8.5.0",
+    "standard": "^10.0.2",
     "stream-to-array": "^2.3.0",
     "through2": "^2.0.1",
     "x-ray": "^2.3.1"
