@@ -1,4 +1,6 @@
 # irc-networks
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/rahatarmanahmed/irc-networks.svg)](https://greenkeeper.io/)
 JSON list of irc networks scraped from irc.netsplit.de. Some are overridden to provide better network server options.
 
 If you find any outdated or incorrect servers listed here, or know of better generic server hostnames and ssl ports, contributions are welcomed!
